@@ -87,18 +87,13 @@ def process_yolo_output(results, frame, output_folder, frame_count):
 
 
 def main():
-    """
-    Main function to capture video feed, perform YOLO segmentation, and generate image descriptions.
-    """
-    # Setup models
+    
     yolo_model = setup_yolov8()
     processor, blip_model = setup_blip()
 
-    # Specify the folder to save processed images
     output_folder = "processed_frames"
     os.makedirs(output_folder, exist_ok=True)
 
-    # Initialize webcam
     cap = cv2.VideoCapture(0)  # 0 for default camera
     if not cap.isOpened():
         print("Error: Could not open webcam.")
@@ -126,7 +121,7 @@ def main():
         # Display the frame with bounding boxes and segmentation masks
         annotated_frame = results[0].plot()
         cv2.imshow("YOLOv8 Segmentation and Detection", annotated_frame)
-        print(results[0])
+        # print(results[0])
         # Exit on pressing 'q'
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
