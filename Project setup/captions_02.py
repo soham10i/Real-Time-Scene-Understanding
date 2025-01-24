@@ -110,22 +110,48 @@ def process_yolo_and_generate_captions(results, frame, processor, blip_model):
 
 
 def summarize_with_longformer(captions_file, output_summary_file="video_summary_led.txt"):
-    """Generates a summary of the video using Longformer."""
-    with open(captions_file, "r") as f:
-        captions_content = f.read()
+    """
+    Summarizes the content of the video using captions from the captions log file, leveraging Longformer (LED).
 
-    captions_text = captions_content.replace("\n", " ")
+    Args:
+        captions_file (str): Path to the captions log file.
+        output_summary_file (str): Path to save the generated summary.
+
+    Returns:
+        str: Generated summary of the video.
+    """
+    # Load the captions log
+    with open(captions_file, "r") as f:
+        captions_content = f.readlines()
+
+    # Extract unique lines and remove frame labels
+    captions = []
+    for line in captions_content:
+        if "Object" in line:  # Skip frame headers and focus on object captions
+            caption = line.split(": ", 1)[-1].strip()
+            if caption not in captions:
+                captions.append(caption)
+
+    # Combine unique captions into one input for summarization
+    captions_text = " ".join(captions)
+
+    # Load Longformer (LED) tokenizer and model
     model_name = "allenai/led-large-16384"
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
 
+    # Tokenize and truncate input to fit Longformer's token limit
     inputs = tokenizer(captions_text, return_tensors="pt", max_length=16384, truncation=True)
+
+    # Generate summary
     summary_ids = model.generate(inputs.input_ids, max_length=500, min_length=100, length_penalty=2.0, num_beams=4)
     summary = tokenizer.decode(summary_ids[0], skip_special_tokens=True)
 
+    # Save the summary to a file
     with open(output_summary_file, "w") as f:
         f.write(summary)
 
+    print(f"Summary saved to: {output_summary_file}")
     return summary
 
 
@@ -138,7 +164,7 @@ def main():
     # Clear captions log
     open(captions_file, "w").close()
 
-    cap = cv2.VideoCapture("classroom_video.mp4")  # Path to your video
+    cap = cv2.VideoCapture("classroom_video.mp4")
     if not cap.isOpened():
         print("Error: Could not open video.")
         return
@@ -146,33 +172,24 @@ def main():
     frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
     frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
     fps = int(cap.get(cv2.CAP_PROP_FPS))
-    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     out = cv2.VideoWriter("processed_video.mp4", cv2.VideoWriter_fourcc(*"mp4v"), fps, (frame_width, frame_height))
 
     print("Processing video...")
-    frame_count = 0
     while cap.isOpened():
         ret, frame = cap.read()
         if not ret:
             break
 
-        # YOLOv8 detection
+        # YOLOv8 detection and caption generation
         results = yolo_model(frame, conf=0.5, iou=0.4)
-
-        # Generate captions
         captions = process_yolo_and_generate_captions(results, frame, processor, blip_model)
 
         # Save captions to file
         with open(captions_file, "a") as f:
-            f.write(f"Frame {frame_count}:\n")
+            f.write(f"Frame {cap.get(cv2.CAP_PROP_POS_FRAMES)}:\n")
             for idx, caption in enumerate(captions):
                 f.write(f"  Object {idx + 1}: {caption}\n")
             f.write("\n")
-
-        # Annotate frame
-        annotated_frame = draw_bounding_boxes_and_labels(frame, results, captions)
-        out.write(annotated_frame)
-        frame_count += 1
 
     cap.release()
     out.release()
@@ -181,6 +198,7 @@ def main():
     summary = summarize_with_longformer(captions_file, summary_file)
     print("Video Summary:")
     print(summary)
+
 
 
 if __name__ == "__main__":

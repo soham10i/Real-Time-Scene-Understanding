@@ -1,4 +1,4 @@
-Frame 0:
+Frame 1.0:
   Object 1: a cat is looking up at the camera
   Object 2: a black and white cat is looking at the camera
   Object 3: a black and white photo of a man with a beard
@@ -10,7 +10,7 @@ Frame 0:
   Object 9: a black background with a white spot in the middle
   Object 10: a black background with a red and yellow light
 
-Frame 1:
+Frame 2.0:
   Object 1: a cat is looking up at the camera
   Object 2: a black and white cat with a white collar
   Object 3: the apple logo
@@ -22,7 +22,7 @@ Frame 1:
   Object 9: a black background with a red and white light
   Object 10: a black background with a white and red light
 
-Frame 2:
+Frame 3.0:
   Object 1: a cat is looking up at the camera
   Object 2: a black and white cat with a white nose
   Object 3: an apple logo is seen on a black background
@@ -33,7 +33,7 @@ Frame 2:
   Object 8: a black background with a small white dot
   Object 9: a black background with a red and yellow light
 
-Frame 3:
+Frame 4.0:
   Object 1: a cat is standing up and looking up
   Object 2: a black and white cat with a white nose
   Object 3: a black and white photo of a man with a beard
@@ -46,7 +46,7 @@ Frame 3:
   Object 10: a black background with a white and red light
   Object 11: a black background with a white and red light
 
-Frame 4:
+Frame 5.0:
   Object 1: a man is standing in the dark
   Object 2: a black and white cat with a white nose
   Object 3: a black and white photo of a man with a beard
@@ -58,7 +58,7 @@ Frame 4:
   Object 9: a black background with a red and yellow light
   Object 10: a black and white photo of a man in a suit
 
-Frame 5:
+Frame 6.0:
   Object 1: a man in a suit and tie is standing in the dark
   Object 2: a black and white cat with a white face
   Object 3: an apple logo is seen on a screen in this und - colored image
@@ -70,7 +70,7 @@ Frame 5:
   Object 9: a red candle in the dark
   Object 10: a black background with a white and red light
 
-Frame 6:
+Frame 7.0:
   Object 1: a black and white cat with a white collar
   Object 2: a man in a suit and tie is pointing at something
   Object 3: a black background with a white cat
@@ -83,7 +83,7 @@ Frame 6:
   Object 10: a black and white photo of a man in a suit
   Object 11: the moon is seen in this image taken from the spacecraft
 
-Frame 7:
+Frame 8.0:
   Object 1: a black and white cat with a white face
   Object 2: a man in a suit and tie is pointing at something
   Object 3: a black and white photo of a bird
@@ -95,7 +95,7 @@ Frame 7:
   Object 9: a black background with a red and yellow light
   Object 10: a black and white photo of a man in a suit
 
-Frame 8:
+Frame 9.0:
   Object 1: a black and white cat with a white face
   Object 2: a person is holding a cell phone
   Object 3: a black and white photo of a man in a suit
@@ -107,7 +107,7 @@ Frame 8:
   Object 9: a black background with a small white dot
   Object 10: the moon is seen in this image taken from the spacecraft
 
-Frame 9:
+Frame 10.0:
   Object 1: a black and white cat with a white collar
   Object 2: a man is standing in the dark
   Object 3: a black and white photo of a man in a suit
@@ -120,7 +120,7 @@ Frame 9:
   Object 10: a black and white image of a man in a suit
   Object 11: a black background with a white and red light
 
-Frame 10:
+Frame 11.0:
   Object 1: a black and white cat with a white collar
   Object 2: a man in a suit and tie is holding a knife
   Object 3: a black and white photo of a bird
@@ -132,7 +132,7 @@ Frame 10:
   Object 9: a black background with a small white dot
   Object 10: a black background with a white and black image of a man
 
-Frame 11:
+Frame 12.0:
   Object 1: a black and white cat with a white face
   Object 2: a man in a suit and tie is standing in front of a black background
   Object 3: an apple logo is seen on a screen in this und - toned image
@@ -144,7 +144,7 @@ Frame 11:
   Object 9: a black background with a small white dot
   Object 10: a white and black square with a black background
 
-Frame 12:
+Frame 13.0:
   Object 1: a black and white cat with a white face
   Object 2: a man in a suit and tie is standing in the dark
   Object 3: an apple logo is seen on a screen in this und - colored image
@@ -157,7 +157,7 @@ Frame 12:
   Object 10: a black background with a white spot in the middle
   Object 11: the moon is seen in this image taken from the spacecraft
 
-Frame 13:
+Frame 14.0:
   Object 1: a black and white cat with a white face
   Object 2: a cat is standing in the dark
   Object 3: the apple logo is seen on an iphone
@@ -170,7 +170,7 @@ Frame 13:
   Object 10: the moon is seen in this image taken from nasa
   Object 11: a black background with a white and black image of a man
 
-Frame 14:
+Frame 15.0:
   Object 1: a black and white cat with a white face
   Object 2: a cat is standing in the dark
   Object 3: an apple logo is seen on a screen in this und - colored image
@@ -183,7 +183,7 @@ Frame 14:
   Object 10: the logo for the new apple watch
   Object 11: the moon is seen in this image taken from the spacecraft
 
-Frame 15:
+Frame 16.0:
   Object 1: a black and white cat with a white face
   Object 2: a cat is sitting on a black surface
   Object 3: the apple logo
@@ -195,7 +195,7 @@ Frame 15:
   Object 9: a black background with a white and blue logo
   Object 10: a man in a suit and tie standing in the dark
 
-Frame 16:
+Frame 17.0:
   Object 1: a black and white cat with a white face
   Object 2: a cat is sitting on a black surface
   Object 3: the logo for the apple watch
@@ -209,7 +209,7 @@ Frame 16:
   Object 11: a man in a suit and tie standing in the dark
   Object 12: the moon is seen in this image taken from the spacecraft
 
-Frame 17:
+Frame 18.0:
   Object 1: a black and white cat with a white face
   Object 2: a cat is sitting on a black surface
   Object 3: the apple logo
@@ -223,7 +223,7 @@ Frame 17:
   Object 11: a black and white photo of a man in a suit
   Object 12: a black background with a white and red light
 
-Frame 18:
+Frame 19.0:
   Object 1: a black and white cat with a white face
   Object 2: a cat is sitting on the floor and looking at the camera
   Object 3: an apple logo is seen on a screen in this und - colored image
@@ -236,7 +236,7 @@ Frame 18:
   Object 10: a black background with a white and black text
   Object 11: a black and white photo of a woman with a black hair
 
-Frame 19:
+Frame 20.0:
   Object 1: a black and white cat with a white collar
   Object 2: a cat is sitting on a black surface
   Object 3: the logo for the apple watch
@@ -251,7 +251,7 @@ Frame 19:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black and white photo of a man with a beard
 
-Frame 20:
+Frame 21.0:
   Object 1: a cat is looking up at the camera
   Object 2: a cat is standing in the dark
   Object 3: apple iphone 5s
@@ -266,7 +266,7 @@ Frame 20:
   Object 12: a man in a suit and tie standing in the dark
   Object 13: a man in a suit and tie standing in front of a black background
 
-Frame 21:
+Frame 22.0:
   Object 1: a cat is looking up at the camera
   Object 2: a cat is standing in the dark
   Object 3: the apple logo
@@ -280,7 +280,7 @@ Frame 21:
   Object 11: a black background with a white spot in the middle
   Object 12: a black background with a white and red light
 
-Frame 22:
+Frame 23.0:
   Object 1: a black and white cat with a white collar
   Object 2: a man in a suit and tie is holding a cell
   Object 3: a black and white photo of a man in a suit
@@ -294,7 +294,7 @@ Frame 22:
   Object 11: a black background with a small white dot
   Object 12: the moon is seen in the sky above the earth
 
-Frame 23:
+Frame 24.0:
   Object 1: a black and white cat with a white nose
   Object 2: a man in a suit and tie is holding a cell
   Object 3: a black and white photo of a man in a suit
@@ -308,7 +308,7 @@ Frame 23:
   Object 11: a black background with a white spot in the middle
   Object 12: a black background with a white and red light
 
-Frame 24:
+Frame 25.0:
   Object 1: a black and white cat with a white face
   Object 2: a cat is looking up at a person
   Object 3: a black and white image of a cat
@@ -323,7 +323,7 @@ Frame 24:
   Object 12: a black background with a white and red light
   Object 13: a white and black logo with the words, ' the best of the best '
 
-Frame 25:
+Frame 26.0:
   Object 1: a cat is looking up at the camera
   Object 2: a cat is looking at a mouse
   Object 3: a white and black square with a white border
@@ -338,7 +338,7 @@ Frame 25:
   Object 12: a black background with a small white dot
   Object 13: a black background with a white and red logo
 
-Frame 26:
+Frame 27.0:
   Object 1: a cat is looking up at the camera
   Object 2: a white and black square with a white border
   Object 3: a man in a black shirt and a white shirt
@@ -354,7 +354,7 @@ Frame 26:
   Object 13: a black background with a small white dot
   Object 14: a man in a suit and tie standing in front of a black background
 
-Frame 27:
+Frame 28.0:
   Object 1: a black and white cat with a white nose
   Object 2: a cat is looking at a mouse
   Object 3: the apple logo
@@ -370,7 +370,7 @@ Frame 27:
   Object 13: a black background with a white light
   Object 14: a black background with a white and red light
 
-Frame 28:
+Frame 29.0:
   Object 1: a cat is looking up at the camera
   Object 2: a cat is sitting on a chair and looking up
   Object 3: a black and white photo of a man with a beard
@@ -387,7 +387,7 @@ Frame 28:
   Object 14: a black background with a white and blue logo
   Object 15: the moon is seen in the sky as it passes through the earth
 
-Frame 29:
+Frame 30.0:
   Object 1: a black and white cat with a white nose
   Object 2: a cat is looking at a mouse
   Object 3: a white cat is standing in the dark
@@ -403,7 +403,7 @@ Frame 29:
   Object 13: the moon is seen in the sky above the earth
   Object 14: a black background with a white and red light
 
-Frame 30:
+Frame 31.0:
   Object 1: a cat is looking up at the camera
   Object 2: a man in a hat and a purple shirt
   Object 3: a black and white photo of a bird flying
@@ -421,7 +421,7 @@ Frame 30:
   Object 15: the moon is seen in this image taken from the spacecraft
   Object 16: a black background with a small white dot
 
-Frame 31:
+Frame 32.0:
   Object 1: a black and white cat is looking up at the camera
   Object 2: a person is flying through the air with a kite
   Object 3: a black and white image of a man with a beard
@@ -439,7 +439,7 @@ Frame 31:
   Object 15: a black background with a white and red light
   Object 16: a black background with a small white dot
 
-Frame 32:
+Frame 33.0:
   Object 1: a woman with long hair and a white shirt
   Object 2: a black and white photo of a man with a beard
   Object 3: a man in a hat and a shirt is playing a game
@@ -455,7 +455,7 @@ Frame 32:
   Object 13: a white and black watch with a black face
   Object 14: the moon is seen in the sky above the earth
 
-Frame 33:
+Frame 34.0:
   Object 1: a black and white cat with a white face
   Object 2: a woman in a purple dress is standing in the dark
   Object 3: a black and white photo of a man with a beard
@@ -472,7 +472,7 @@ Frame 33:
   Object 14: a black background with a small white dot
   Object 15: the moon is seen in this image taken from nasa
 
-Frame 34:
+Frame 35.0:
   Object 1: a woman with long hair and a white shirt
   Object 2: a man in a hat and a shirt is jumping
   Object 3: a black and white photo of a man in a suit
@@ -488,7 +488,7 @@ Frame 34:
   Object 13: a black background with a white spot in the middle
   Object 14: the moon is seen in this image taken from nasa
 
-Frame 35:
+Frame 36.0:
   Object 1: a cat is looking up at the camera
   Object 2: a man in a suit and tie holding a paper
   Object 3: a black and white photo of a man with a beard
@@ -504,7 +504,7 @@ Frame 35:
   Object 13: a white square with a black background
   Object 14: a black background with a small white dot
 
-Frame 36:
+Frame 37.0:
   Object 1: a cat is looking up at the camera
   Object 2: a man in a suit and tie holding a paper
   Object 3: a black and white photo of a man with a beard
@@ -520,7 +520,7 @@ Frame 36:
   Object 13: a white light bulb on a black background
   Object 14: a black background with a white and blue logo
 
-Frame 37:
+Frame 38.0:
   Object 1: a black and white cat is looking up at the camera
   Object 2: a man in a suit and tie holding a paper
   Object 3: a black and white photo of a man with a beard
@@ -537,7 +537,7 @@ Frame 37:
   Object 14: a man in a suit and tie standing in the dark
   Object 15: a black background with a white and blue logo
 
-Frame 38:
+Frame 39.0:
   Object 1: a cat is standing in the dark
   Object 2: a person is holding a cell phone
   Object 3: a black and white photo of a man with a beard
@@ -553,7 +553,7 @@ Frame 38:
   Object 13: the moon is seen in the sky above the earth
   Object 14: the moon is seen in this image taken from the spacecraft
 
-Frame 39:
+Frame 40.0:
   Object 1: a black and white cat with a white nose
   Object 2: a man in a suit and tie is holding a knife
   Object 3: an apple logo is seen on a screen in this und - toned image
@@ -569,7 +569,7 @@ Frame 39:
   Object 13: the moon is seen in this image taken from the spacecraft
   Object 14: the moon is seen in the sky above the earth
 
-Frame 40:
+Frame 41.0:
   Object 1: a woman with long hair and a white shirt
   Object 2: a man in a suit and tie holding a cell
   Object 3: a bird flying through the air with its wings spread
@@ -586,7 +586,7 @@ Frame 40:
   Object 14: a small white object in the dark sky
   Object 15: the earth and moon are seen in this image taken from nasa
 
-Frame 41:
+Frame 42.0:
   Object 1: a black and white cat with a white face
   Object 2: a man in a suit and tie holding a bottle
   Object 3: an apple logo is seen on a screen
@@ -602,7 +602,7 @@ Frame 41:
   Object 13: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
   Object 14: a black background with a small white dot
 
-Frame 42:
+Frame 43.0:
   Object 1: a cat is looking up at the camera
   Object 2: a black background with a white outline of a person
   Object 3: a black and white photo of a man with a beard
@@ -619,7 +619,7 @@ Frame 42:
   Object 14: the moon is seen in the sky as it passes through the earth
   Object 15: a black background with a white and red light
 
-Frame 43:
+Frame 44.0:
   Object 1: a black and white cat is looking up at the camera
   Object 2: a black background with a white outline of a person
   Object 3: a black and white photo of a man in a suit
@@ -636,7 +636,7 @@ Frame 43:
   Object 14: a black background with a small white dot
   Object 15: a black background with a white and red light
 
-Frame 44:
+Frame 45.0:
   Object 1: a man in a suit and tie holding a cup
   Object 2: a black and white cat is looking up at the camera
   Object 3: a black and white photo of a man with a beard
@@ -651,7 +651,7 @@ Frame 44:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
 
-Frame 45:
+Frame 46.0:
   Object 1: a black and white photo of a man in a suit
   Object 2: a black and white cat with a white face
   Object 3: a man in a suit and tie holding a cup
@@ -667,7 +667,7 @@ Frame 45:
   Object 13: a black background with a red and white light
   Object 14: the moon is seen in the sky above the earth
 
-Frame 46:
+Frame 47.0:
   Object 1: a black and white image of a man with a beard
   Object 2: a man in a suit and tie holding a bottle
   Object 3: a woman in a white shirt is standing in the dark
@@ -683,7 +683,7 @@ Frame 46:
   Object 13: a black background with a white light
   Object 14: the moon is seen in this image taken from the spacecraft
 
-Frame 47:
+Frame 48.0:
   Object 1: a small white object in the dark sky
   Object 2: a black and white image of a man with a beard
   Object 3: a man in a suit and tie holding a cup
@@ -699,7 +699,7 @@ Frame 47:
   Object 13: a black background with a white light
   Object 14: the moon is seen in this image taken from the spacecraft
 
-Frame 48:
+Frame 49.0:
   Object 1: a black and white image of a man with a beard
   Object 2: a person holding a cell phone in their hand
   Object 3: the dark knight of the north
@@ -714,7 +714,7 @@ Frame 48:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black background with a white line in the middle
 
-Frame 49:
+Frame 50.0:
   Object 1: a black and white photo of a man with a beard
   Object 2: a black and white photo of a man with a beard
   Object 3: the apple logo is seen on a screen
@@ -730,7 +730,7 @@ Frame 49:
   Object 13: the moon is seen in this image taken from the spacecraft
   Object 14: the saturn saturn saturn is seen in this image taken from nasa
 
-Frame 50:
+Frame 51.0:
   Object 1: a black and white cat with a white tail
   Object 2: a man in a suit and tie is standing in the dark
   Object 3: a person holding a cup of coffee
@@ -746,7 +746,7 @@ Frame 50:
   Object 13: a black background with a white and blue star
   Object 14: the moon is seen in the sky as it passes through the earth
 
-Frame 51:
+Frame 52.0:
   Object 1: a person is holding a cell phone
   Object 2: the apple logo is seen on the screen of an iphone
   Object 3: a black and white photo of a man with a beard
@@ -763,7 +763,7 @@ Frame 51:
   Object 14: the moon is seen in this image taken from the sky
   Object 15: a black background with a red light
 
-Frame 52:
+Frame 53.0:
   Object 1: a black and white photo of a man in a suit
   Object 2: a man in a suit and tie is standing in front of a black background
   Object 3: a man in a hat and a white shirt
@@ -777,7 +777,7 @@ Frame 52:
   Object 11: the moon is seen in this image taken from the spacecraft
   Object 12: a small white object is seen in the dark
 
-Frame 53:
+Frame 54.0:
   Object 1: a man in a suit and tie is standing in the dark
   Object 2: a black and white photo of a man with a gun
   Object 3: a cat is sitting on a black surface
@@ -792,7 +792,7 @@ Frame 53:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a bottle of white wine with a white label
 
-Frame 54:
+Frame 55.0:
   Object 1: a man in a suit and tie is holding a cell
   Object 2: the logo for the apple watch
   Object 3: a black and white image of a man with a gun
@@ -807,7 +807,7 @@ Frame 54:
   Object 12: the moon is seen in the sky as it passes through the earth
   Object 13: the moon is seen in this image taken from the spacecraft
 
-Frame 55:
+Frame 56.0:
   Object 1: a black and white photo of a man with a gun
   Object 2: a man in a suit and tie is holding a cell
   Object 3: a cat is looking up at the camera
@@ -821,7 +821,7 @@ Frame 55:
   Object 11: the moon is seen in this image taken from the spacecraft
   Object 12: a black background with a white and red light
 
-Frame 56:
+Frame 57.0:
   Object 1: a man in a suit and tie is standing in the dark
   Object 2: a man with a beard and a black shirt
   Object 3: a small white object in the dark
@@ -835,7 +835,7 @@ Frame 56:
   Object 11: the moon is seen in this image taken from the spacecraft
   Object 12: the moon is seen in this image taken from nasa
 
-Frame 57:
+Frame 58.0:
   Object 1: a man in a suit and tie is standing in the dark
   Object 2: a black background with a white outline of a cat
   Object 3: a woman with a black shirt and a white shirt
@@ -852,7 +852,7 @@ Frame 57:
   Object 14: a black background with a white and red light
   Object 15: the moon is seen in this image taken from the spacecraft
 
-Frame 58:
+Frame 59.0:
   Object 1: a man in a suit and tie standing in the dark
   Object 2: a small white dog is standing in the dark
   Object 3: a black and white cat with a white tail
@@ -869,7 +869,7 @@ Frame 58:
   Object 14: a small asteroid is seen in the dark sky
   Object 15: a black background with a white and red light
 
-Frame 59:
+Frame 60.0:
   Object 1: a black and white cat with a black background
   Object 2: a cat is looking up at the camera
   Object 3: a black and white photo of a bird
@@ -884,7 +884,7 @@ Frame 59:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black background with a white and red light
 
-Frame 60:
+Frame 61.0:
   Object 1: a man with a beard and a beard
   Object 2: a woman in a white shirt and black pants
   Object 3: a woman with a black shirt and a white shirt
@@ -900,7 +900,7 @@ Frame 60:
   Object 13: the moon is seen in this image taken from the spacecraft
   Object 14: a fire in the dark
 
-Frame 61:
+Frame 62.0:
   Object 1: a small white bird flying through the air
   Object 2: a black and white cat with a white tail
   Object 3: a woman in a white shirt and black pants
@@ -917,7 +917,7 @@ Frame 61:
   Object 14: a black background with a white and black image of a man
   Object 15: a black background with a small white dot
 
-Frame 62:
+Frame 63.0:
   Object 1: a hand holding a small white object
   Object 2: a black and white cat with a white collar
   Object 3: a black and white cat with a white tail
@@ -933,7 +933,7 @@ Frame 62:
   Object 13: a black background with a red and yellow light
   Object 14: the asteroid is seen in this image taken from nasa
 
-Frame 63:
+Frame 64.0:
   Object 1: a hand holding a small object in the dark
   Object 2: a black and white cat with a white tail
   Object 3: a black and white cat with a black background
@@ -950,7 +950,7 @@ Frame 63:
   Object 14: a black background with a white line in the middle
   Object 15: a black background with a white and blue light
 
-Frame 64:
+Frame 65.0:
   Object 1: a small white object with a black background
   Object 2: a black and white cat with a black background
   Object 3: a black and white cat with a black background
@@ -966,7 +966,7 @@ Frame 64:
   Object 13: a black background with a white and blue logo
   Object 14: a black background with a small pink dot
 
-Frame 65:
+Frame 66.0:
   Object 1: a black and white cat with a white tail
   Object 2: a small white mouse on a black background
   Object 3: a black and white cat with a black background
@@ -982,7 +982,7 @@ Frame 65:
   Object 13: the moon is seen through a telescope lens
   Object 14: a black background with a small red dot
 
-Frame 66:
+Frame 67.0:
   Object 1: a black and white cat
   Object 2: a black and white cat with a black background
   Object 3: a small white bird flying through the air
@@ -997,7 +997,7 @@ Frame 66:
   Object 12: a candle in the dark
   Object 13: a black background with a white and black image
 
-Frame 67:
+Frame 68.0:
   Object 1: a cat is sitting on a black surface
   Object 2: a black and white cat with a white tail
   Object 3: a man in a suit and tie is standing in front of a black background
@@ -1014,7 +1014,7 @@ Frame 67:
   Object 14: a black background with a small white dot
   Object 15: a candle with a candle in the middle
 
-Frame 68:
+Frame 69.0:
   Object 1: a black and white cat with a white tail
   Object 2: a cat is standing in the dark
   Object 3: a white square shaped object with a black background
@@ -1030,7 +1030,7 @@ Frame 68:
   Object 13: the moon is seen in this image taken from the spacecraft
   Object 14: the moon is seen in this image taken from the spacecraft
 
-Frame 69:
+Frame 70.0:
   Object 1: a small dog with a red nose and a black background
   Object 2: a black and white cat with a white tail
   Object 3: a black and white cat with a black background
@@ -1046,7 +1046,7 @@ Frame 69:
   Object 13: the moon is seen in this image taken from the spacecraft
   Object 14: the moon is seen in this image taken from the spacecraft
 
-Frame 70:
+Frame 71.0:
   Object 1: a person is holding a knife and a knife
   Object 2: a black and white cat with a black background
   Object 3: a small dog with a large nose and a small nose
@@ -1063,7 +1063,7 @@ Frame 70:
   Object 14: the moon is seen in this image taken from the spacecraft
   Object 15: the moon and venus
 
-Frame 71:
+Frame 72.0:
   Object 1: a small bird flying through the air
   Object 2: a black and white bird flying through the air
   Object 3: a cat is standing on its hinds
@@ -1080,7 +1080,7 @@ Frame 71:
   Object 14: a black background with a white and yellow light
   Object 15: a black background with a white and red light
 
-Frame 72:
+Frame 73.0:
   Object 1: a small bird flying through the air
   Object 2: a cat is standing in the dark
   Object 3: a black and white cat with a black background
@@ -1097,7 +1097,7 @@ Frame 72:
   Object 14: a black background with a white and red light
   Object 15: the moon is seen in this image taken from the spacecraft
 
-Frame 73:
+Frame 74.0:
   Object 1: a cat is standing on a black surface
   Object 2: a white and black bird flying through the air
   Object 3: a small brown dog with a black background
@@ -1114,7 +1114,7 @@ Frame 73:
   Object 14: a small white object is flying through the air
   Object 15: the moon is seen in this image taken from the sky
 
-Frame 74:
+Frame 75.0:
   Object 1: a person with a knife in their hand
   Object 2: a white flower with a black background
   Object 3: a small white bird flying through the night sky
@@ -1131,7 +1131,7 @@ Frame 74:
   Object 14: the moon is seen in this image taken from the spacecraft
   Object 15: a black background with a white and black image
 
-Frame 75:
+Frame 76.0:
   Object 1: a person with a knife and a knife in their hand
   Object 2: a white flower with a black background
   Object 3: a bottle of white wine with a black background
@@ -1149,7 +1149,7 @@ Frame 75:
   Object 15: the moon is seen in this image taken from the spacecraft
   Object 16: a black background with a white and red light
 
-Frame 76:
+Frame 77.0:
   Object 1: a person is holding a knife and a knife
   Object 2: a white flower with a black background
   Object 3: a white and black bottle of wine
@@ -1166,7 +1166,7 @@ Frame 76:
   Object 14: a black background with a white and red logo
   Object 15: a black background with a white circle
 
-Frame 77:
+Frame 78.0:
   Object 1: a small dog with a pink collar and a black collar
   Object 2: a black and white logo with a white background
   Object 3: a black background with a white bird flying
@@ -1184,7 +1184,7 @@ Frame 77:
   Object 15: a black background with a white and blue light
   Object 16: a black background with a white and blue star
 
-Frame 78:
+Frame 79.0:
   Object 1: a small bird flying through the air
   Object 2: a white and black logo with a white and black logo
   Object 3: a black background with a white bird flying
@@ -1201,7 +1201,7 @@ Frame 78:
   Object 14: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
   Object 15: a black background with a small white object in the middle
 
-Frame 79:
+Frame 80.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: a small dog is standing in the dark
   Object 3: a white and black bird flying in the air
@@ -1218,7 +1218,7 @@ Frame 79:
   Object 14: a black and white cat with a pink nose
   Object 15: a black background with a small white dot
 
-Frame 80:
+Frame 81.0:
   Object 1: a cat is standing in the dark
   Object 2: a white and black bird flying in the air
   Object 3: an image of a black background with a white cat
@@ -1236,7 +1236,7 @@ Frame 80:
   Object 15: a black background with a white and brown logo
   Object 16: the moon is seen in this image taken from nasa
 
-Frame 81:
+Frame 82.0:
   Object 1: a white and black cat with a black background
   Object 2: a small dog with a black background
   Object 3: an apple logo is seen on the screen of an iphone
@@ -1250,7 +1250,7 @@ Frame 81:
   Object 11: a black background with a white and red light
   Object 12: a white and black cat with a black nose
 
-Frame 82:
+Frame 83.0:
   Object 1: a black background with a small white dot
   Object 2: a white flower with a black background
   Object 3: a white and black logo with the words, ' the best of the best '
@@ -1267,7 +1267,7 @@ Frame 82:
   Object 14: a black background with a white line in the middle
   Object 15: the moon is seen in this image taken from nasa
 
-Frame 83:
+Frame 84.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: the moon is seen in this image taken from the spacecraft
   Object 3: a small dog with a black background
@@ -1282,7 +1282,7 @@ Frame 83:
   Object 12: a purple flower on a black background
   Object 13: a black background with a white light
 
-Frame 84:
+Frame 85.0:
   Object 1: a black and white cat with a white tail
   Object 2: a black and white photo of a man with a beard
   Object 3: a small brown dog with a black nose
@@ -1301,7 +1301,7 @@ Frame 84:
   Object 16: the moon is seen in the sky above the earth
   Object 17: a black background with a white and brown dog
 
-Frame 85:
+Frame 86.0:
   Object 1: a white flower with a black background
   Object 2: a black background with a small white dot
   Object 3: the apple logo is seen on a black background
@@ -1318,7 +1318,7 @@ Frame 85:
   Object 14: the moon and venus
   Object 15: a black background with a white and red light
 
-Frame 86:
+Frame 87.0:
   Object 1: a cat with a black background
   Object 2: a white flower with a black background
   Object 3: a white box with a black background
@@ -1334,7 +1334,7 @@ Frame 86:
   Object 13: a black and white logo with the words, ' the best of the best '
   Object 14: the moon is seen in this image taken from nasa
 
-Frame 87:
+Frame 88.0:
   Object 1: a small dog with a black background
   Object 2: a white flower with a black background
   Object 3: a black and white photo of a man with a beard
@@ -1351,7 +1351,7 @@ Frame 87:
   Object 14: the logo for the new york area
   Object 15: a black and white logo with the words, ' the best of the best '
 
-Frame 88:
+Frame 89.0:
   Object 1: a cat is standing in the dark
   Object 2: a white flower with a black background
   Object 3: a white plastic cup with a black lid
@@ -1369,7 +1369,7 @@ Frame 88:
   Object 15: the logo for the new york area
   Object 16: a black background with a white and red light
 
-Frame 89:
+Frame 90.0:
   Object 1: a white flower with a black background
   Object 2: a cat with a black background
   Object 3: a white plastic cup with a black lid
@@ -1386,7 +1386,7 @@ Frame 89:
   Object 14: a black background with a white and purple flower
   Object 15: a black background with a white and blue logo
 
-Frame 90:
+Frame 91.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a white bird flying through the air
   Object 3: a person is standing in the dark
@@ -1401,7 +1401,7 @@ Frame 90:
   Object 12: the logo for the new york
   Object 13: the moon is seen in this image taken from the spacecraft
 
-Frame 91:
+Frame 92.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a white bird flying through the air
   Object 3: a black background with a small white object
@@ -1417,7 +1417,7 @@ Frame 91:
   Object 13: the moon is seen in this image taken from the spacecraft
   Object 14: a black background with a white and blue light
 
-Frame 92:
+Frame 93.0:
   Object 1: a white bottle of wine with a black label
   Object 2: the logo for the new game, the game ' s first - person
   Object 3: a person with a knife in their hand
@@ -1433,7 +1433,7 @@ Frame 92:
   Object 13: the logo for the new york area
   Object 14: a blue and white logo on a black background
 
-Frame 93:
+Frame 94.0:
   Object 1: a white and black logo on a black background
   Object 2: a person with a purple shirt and a black background
   Object 3: an apple logo is seen on a screen
@@ -1448,7 +1448,7 @@ Frame 93:
   Object 12: a black and white logo with the words, ' the black and white logo is a black and white logo
   Object 13: the moon is seen in this image taken from the sky
 
-Frame 94:
+Frame 95.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a small dog with a black background
   Object 3: an apple logo is seen on the screen of an iphone
@@ -1463,7 +1463,7 @@ Frame 94:
   Object 12: a black and white logo with the words, ' the best of the best '
   Object 13: the moon is seen in this image taken from the spacecraft
 
-Frame 95:
+Frame 96.0:
   Object 1: a white and black logo with the words ' the best '
   Object 2: a small dog with a black background
   Object 3: the apple logo is seen on the screen of an iphone
@@ -1478,7 +1478,7 @@ Frame 95:
   Object 12: a black and white logo with the words, ' the best '
   Object 13: the moon is seen in this image taken from the sky
 
-Frame 96:
+Frame 97.0:
   Object 1: a white and black logo with the words ' the best '
   Object 2: a purple and black cat with a black background
   Object 3: the apple logo is seen on a black background
@@ -1493,7 +1493,7 @@ Frame 96:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black and white logo with the words, ' the best of the best '
 
-Frame 97:
+Frame 98.0:
   Object 1: a white box with a black lid
   Object 2: a small dog with a black background
   Object 3: a white butterfly flying through the air
@@ -1508,7 +1508,7 @@ Frame 97:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black and white logo with the words, ' the best of the best '
 
-Frame 98:
+Frame 99.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a white bird flying through the air
   Object 3: a black background with a white and brown cat
@@ -1523,7 +1523,7 @@ Frame 98:
   Object 12: the moon is seen in this image taken from the sky
   Object 13: the logo for the new york
 
-Frame 99:
+Frame 100.0:
   Object 1: a white paper airplane flying through the air
   Object 2: a white bird flying through the air
   Object 3: a cat is looking up at the camera
@@ -1538,7 +1538,7 @@ Frame 99:
   Object 12: the logo for the new york area
   Object 13: the moon is seen in this image taken from the spacecraft
 
-Frame 100:
+Frame 101.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a white flower with a black background
   Object 3: a black background with a white and brown cat
@@ -1554,7 +1554,7 @@ Frame 100:
   Object 13: a black background with a white and red light
   Object 14: a black and white image of a cross
 
-Frame 101:
+Frame 102.0:
   Object 1: a white and black logo on a black background
   Object 2: a white butterfly flying through the air
   Object 3: an apple logo is seen on the screen of an iphone
@@ -1569,7 +1569,7 @@ Frame 101:
   Object 12: a black and white image of a cross
   Object 13: a black background with a white and red light
 
-Frame 102:
+Frame 103.0:
   Object 1: a white box with a black background
   Object 2: a white butterfly flying through the air
   Object 3: the moon is seen in this image taken from the spacecraft
@@ -1585,7 +1585,7 @@ Frame 102:
   Object 13: the logo for the new york
   Object 14: the moon is seen in this image taken from the spacecraft
 
-Frame 103:
+Frame 104.0:
   Object 1: a white box with a black background
   Object 2: a white butterfly flying through the air
   Object 3: the apple logo is seen on the screen of an iphone
@@ -1602,7 +1602,7 @@ Frame 103:
   Object 14: a black background with a white and red light
   Object 15: the moon is seen in this image taken from the spacecraft
 
-Frame 104:
+Frame 105.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: an image of a small white object in the dark sky
   Object 3: a black and white photo of a man with a beard
@@ -1619,7 +1619,7 @@ Frame 104:
   Object 14: the logo for the new york area
   Object 15: the moon is seen in this image taken from the sky
 
-Frame 105:
+Frame 106.0:
   Object 1: a white box with a black background
   Object 2: a white bird flying through the air
   Object 3: an image of a small white object in the dark
@@ -1635,7 +1635,7 @@ Frame 105:
   Object 13: the logo for the new york area
   Object 14: a black background with a white and yellow logo
 
-Frame 106:
+Frame 107.0:
   Object 1: a white plastic cup with a black lid
   Object 2: the apple logo is shown on a black background
   Object 3: a white cat with a black nose and a white nose
@@ -1651,7 +1651,7 @@ Frame 106:
   Object 13: the moon is seen in this image taken from the sky
   Object 14: a black background with a white and red light
 
-Frame 107:
+Frame 108.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a white bird flying through the air
   Object 3: the logo for the new york
@@ -1668,7 +1668,7 @@ Frame 107:
   Object 14: the moon is seen in this image taken from the spacecraft
   Object 15: a black background with a white light
 
-Frame 108:
+Frame 109.0:
   Object 1: a white plastic cup with a black lid
   Object 2: the logo for the new yorks
   Object 3: the moon is seen in this image taken from the sky
@@ -1686,7 +1686,7 @@ Frame 108:
   Object 15: a black background with a white light
   Object 16: a black background with a white light
 
-Frame 109:
+Frame 110.0:
   Object 1: a white and black logo on a black background
   Object 2: the logo for the new york
   Object 3: a white bird flying through the air
@@ -1702,7 +1702,7 @@ Frame 109:
   Object 13: a black background with a white and red flower
   Object 14: a black background with a white cross
 
-Frame 110:
+Frame 111.0:
   Object 1: a white and black logo for the new york
   Object 2: the logo for the new game, the game is shown in the middle of the image
   Object 3: a white bird flying through the air
@@ -1719,7 +1719,7 @@ Frame 110:
   Object 14: the moon is seen in this image taken from the spacecraft
   Object 15: the moon is seen in this image taken from the spacecraft
 
-Frame 111:
+Frame 112.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a purple shoe with a black background
   Object 3: a small white object with a black background
@@ -1736,7 +1736,7 @@ Frame 111:
   Object 14: the moon is seen in this image taken from the spacecraft
   Object 15: a black background with a white and yellow light
 
-Frame 112:
+Frame 113.0:
   Object 1: a white and black logo for the new york
   Object 2: a purple cat with a black background
   Object 3: the apple logo is shown on a black background
@@ -1752,7 +1752,7 @@ Frame 112:
   Object 13: a black background with a white and red light
   Object 14: the moon is seen in this image taken from the spacecraft
 
-Frame 113:
+Frame 114.0:
   Object 1: a white bottle of wine with a black background
   Object 2: a white bird flying through the air
   Object 3: a person with a hat and a black background
@@ -1769,7 +1769,7 @@ Frame 113:
   Object 14: a black and white image of a man with a beard
   Object 15: a black background with a white and red light
 
-Frame 114:
+Frame 115.0:
   Object 1: a white and black logo for the new york
   Object 2: apple iphone 5s
   Object 3: a white bird flying through the air
@@ -1784,7 +1784,7 @@ Frame 114:
   Object 12: the moon is seen in the dark sky
   Object 13: a black background with a white cross
 
-Frame 115:
+Frame 116.0:
   Object 1: a white and black logo on a black background
   Object 2: apple iphone 5s
   Object 3: a white bird flying through the air
@@ -1798,7 +1798,7 @@ Frame 115:
   Object 11: the moon is seen in this image taken from the spacecraft
   Object 12: the moon is seen in this image taken from the spacecraft
 
-Frame 116:
+Frame 117.0:
   Object 1: a white plastic cup with a white handle
   Object 2: the apple logo is seen on a black background
   Object 3: a white bird flying through the air
@@ -1813,7 +1813,7 @@ Frame 116:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black background with a white and red light
 
-Frame 117:
+Frame 118.0:
   Object 1: a white box with a black lid
   Object 2: apple iphone 5s
   Object 3: a hand is shown in the middle of the image
@@ -1828,7 +1828,7 @@ Frame 117:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black background with a white and blue light
 
-Frame 118:
+Frame 119.0:
   Object 1: a white paper with a black background
   Object 2: a small white object with a black background
   Object 3: a person is holding a small object in their hand
@@ -1844,7 +1844,7 @@ Frame 118:
   Object 13: a small asteroid is seen in the sky
   Object 14: a black background with a white and red light
 
-Frame 119:
+Frame 120.0:
   Object 1: a white plastic cup with a black lid
   Object 2: the apple logo is seen on a black background
   Object 3: a white bird flying through the air
@@ -1860,7 +1860,7 @@ Frame 119:
   Object 13: a black background with a white and red light
   Object 14: a dog is standing in the dark
 
-Frame 120:
+Frame 121.0:
   Object 1: a white and black logo on a black background
   Object 2: a white bird with a black background
   Object 3: a small brown rabbit is standing in the dark
@@ -1876,7 +1876,7 @@ Frame 120:
   Object 13: the moon is seen in the sky above the earth
   Object 14: a black background with a white and red light
 
-Frame 121:
+Frame 122.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a white and black cat with a black background
   Object 3: a small brown rabbit sitting on top of a wooden table
@@ -1891,7 +1891,7 @@ Frame 121:
   Object 12: a black background with a white line in the middle
   Object 13: a black background with a small gold object
 
-Frame 122:
+Frame 123.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: a white bird with a black background
   Object 3: a small brown dog is standing in the dark
@@ -1905,7 +1905,7 @@ Frame 122:
   Object 11: the moon is seen in this image taken from the spacecraft
   Object 12: the moon is seen in this image taken from the spacecraft
 
-Frame 123:
+Frame 124.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: a white bird flying through the air
   Object 3: a brown dog is standing in the dark
@@ -1919,7 +1919,7 @@ Frame 123:
   Object 11: the moon is seen in the dark sky
   Object 12: the moon is seen in this image taken from the spacecraft
 
-Frame 124:
+Frame 125.0:
   Object 1: a white box with a black lid
   Object 2: a white bird flying through the air
   Object 3: a small purple flower on a black background
@@ -1933,7 +1933,7 @@ Frame 124:
   Object 11: a black background with a small white object in the middle
   Object 12: the moon is seen in this image taken from the spacecraft
 
-Frame 125:
+Frame 126.0:
   Object 1: a white and black logo for the new york
   Object 2: a bird flying in the air with its wings spread
   Object 3: a small white object is seen in the dark
@@ -1947,7 +1947,7 @@ Frame 125:
   Object 11: the logo for the new york area
   Object 12: the moon is seen in this image taken from the spacecraft
 
-Frame 126:
+Frame 127.0:
   Object 1: a white and black logo for the new york
   Object 2: a white fish with a black background
   Object 3: a white apple logo on a black background
@@ -1960,7 +1960,7 @@ Frame 126:
   Object 10: the moon is seen in the sky above the earth
   Object 11: the moon is seen in this image taken from the spacecraft
 
-Frame 127:
+Frame 128.0:
   Object 1: a white and black logo for the new york
   Object 2: a white bird with a black background
   Object 3: an apple logo is seen on a screen in this und - toned image
@@ -1974,7 +1974,7 @@ Frame 127:
   Object 11: a black background with a white and blue light
   Object 12: a black background with a white spot in the middle
 
-Frame 128:
+Frame 129.0:
   Object 1: a white and black logo for the new york
   Object 2: a white bird with a black background
   Object 3: an apple logo is seen on the screen of an iphone
@@ -1988,7 +1988,7 @@ Frame 128:
   Object 11: a man in a suit and tie standing in front of a black background
   Object 12: the logo for the new york
 
-Frame 129:
+Frame 130.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a white bird flying through the air
   Object 3: a small white bird flying through the air
@@ -2002,7 +2002,7 @@ Frame 129:
   Object 11: the moon is seen in the sky above the earth
   Object 12: the logo for the new york school
 
-Frame 130:
+Frame 131.0:
   Object 1: a white and black logo with the words ' the best '
   Object 2: a white fish with a black background
   Object 3: a white cat is standing in the dark
@@ -2017,7 +2017,7 @@ Frame 130:
   Object 12: the moon is seen in this image taken from the sky
   Object 13: a black background with a white and yellow border
 
-Frame 131:
+Frame 132.0:
   Object 1: a white and black logo for the new york
   Object 2: a white bird flying through the air
   Object 3: a small animal with a long tail and a long tail
@@ -2033,7 +2033,7 @@ Frame 131:
   Object 13: a white and black logo with the words, ' the best of the best '
   Object 14: a man in a suit and tie is standing in the dark
 
-Frame 132:
+Frame 133.0:
   Object 1: a white and black logo with the words ' the best '
   Object 2: a white fish with a black background
   Object 3: a small dog is standing in the dark
@@ -2049,7 +2049,7 @@ Frame 132:
   Object 13: a black background with a white and red flower
   Object 14: a black background with a white spot
 
-Frame 133:
+Frame 134.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a person with a hat on their head
   Object 3: a white bird flying through the air
@@ -2067,7 +2067,7 @@ Frame 133:
   Object 15: the logo for the new york
   Object 16: a black background with a white and red flower
 
-Frame 134:
+Frame 135.0:
   Object 1: a white square with a black background
   Object 2: a person is standing in the dark
   Object 3: a white bird flying through the air
@@ -2084,7 +2084,7 @@ Frame 134:
   Object 14: the logo for the new yorks
   Object 15: a black background with a white and red flower
 
-Frame 135:
+Frame 136.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a small brown dog is standing in the dark
   Object 3: a white bird with a black background
@@ -2100,7 +2100,7 @@ Frame 135:
   Object 13: a black background with a white circle
   Object 14: the logo for the new york
 
-Frame 136:
+Frame 137.0:
   Object 1: a white and black logo on a black background
   Object 2: a brown dog is standing in the dark
   Object 3: a white bird with a black background
@@ -2117,7 +2117,7 @@ Frame 136:
   Object 14: a white and red light on a black background
   Object 15: a white and brown logo with the words, ' the best of the best '
 
-Frame 137:
+Frame 138.0:
   Object 1: a white and black logo on a black background
   Object 2: a person is standing in the dark
   Object 3: a small white object is seen in the dark
@@ -2135,7 +2135,7 @@ Frame 137:
   Object 15: a white and red object on a black background
   Object 16: the moon is seen in the sky as it rises over the earth
 
-Frame 138:
+Frame 139.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: a small brown dog is standing in the dark
   Object 3: the apple logo
@@ -2150,7 +2150,7 @@ Frame 138:
   Object 12: the logo for the new yorks
   Object 13: a white and red light on a black background
 
-Frame 139:
+Frame 140.0:
   Object 1: a white box with a black background
   Object 2: a brown hat with a brown ribbon on it
   Object 3: a white bird flying through the air
@@ -2166,7 +2166,7 @@ Frame 139:
   Object 13: the moon is seen in this image taken from the spacecraft
   Object 14: a white and brown dog with a black nose
 
-Frame 140:
+Frame 141.0:
   Object 1: a white and black logo on a black background
   Object 2: a brown hat with a black background
   Object 3: a white bird flying through the air
@@ -2180,7 +2180,7 @@ Frame 140:
   Object 11: a small asteroid is seen in the dark sky
   Object 12: the logo for the new york
 
-Frame 141:
+Frame 142.0:
   Object 1: a white and black logo on a black background
   Object 2: a white bird flying through the air
   Object 3: a small brown dog with a black background
@@ -2195,7 +2195,7 @@ Frame 141:
   Object 12: the saturn saturn saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn,
   Object 13: a black background with a white and red logo
 
-Frame 142:
+Frame 143.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: a white bird flying through the air
   Object 3: a small brown dog is standing in the dark
@@ -2210,7 +2210,7 @@ Frame 142:
   Object 12: a black background with a white and red logo
   Object 13: a white and black logo with the words, ' the best of the best '
 
-Frame 143:
+Frame 144.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a white bird with a black background
   Object 3: a small animal with a long neck and a long tail
@@ -2224,7 +2224,7 @@ Frame 143:
   Object 11: a black background with a white cross on it
   Object 12: the logo for the new york
 
-Frame 144:
+Frame 145.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a white bird with a black background
   Object 3: the apple logo
@@ -2240,7 +2240,7 @@ Frame 144:
   Object 13: a white and black background with a small white object
   Object 14: the logo for the new apple watch
 
-Frame 145:
+Frame 146.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: a white bird flying through the air
   Object 3: apple iphone 5s
@@ -2256,7 +2256,7 @@ Frame 145:
   Object 13: a man in a suit and tie standing in front of a black background
   Object 14: the logo for the new apple watch
 
-Frame 146:
+Frame 147.0:
   Object 1: a white and black logo with the words ' ' '
   Object 2: a white bird with a black background
   Object 3: the apple logo is shown on a black background
@@ -2272,7 +2272,7 @@ Frame 146:
   Object 13: a man in a suit and tie standing on a stage
   Object 14: a black and white logo with the words, ' the best of the best '
 
-Frame 147:
+Frame 148.0:
   Object 1: a white and black logo with the words, ' the best of the best '
   Object 2: a white bird flying through the air
   Object 3: the apple logo is shown on a black background
@@ -2288,7 +2288,7 @@ Frame 147:
   Object 13: a brown and white logo with the words, ' the best of the best '
   Object 14: a man in a suit and tie is standing on a stage
 
-Frame 148:
+Frame 149.0:
   Object 1: a white and black logo on a black background
   Object 2: a white bird with a black background
   Object 3: a small purple object with a black background
@@ -2303,7 +2303,7 @@ Frame 148:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black background with a white and red light
 
-Frame 149:
+Frame 150.0:
   Object 1: a white and black logo on a black background
   Object 2: a black background
   Object 3: a white bird with a black background
@@ -2318,7 +2318,7 @@ Frame 149:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a man in a suit and tie standing in front of a black background
 
-Frame 150:
+Frame 151.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a white bird flying through the air
   Object 3: a person is standing in the dark
@@ -2333,7 +2333,7 @@ Frame 150:
   Object 12: the moon is seen in this image taken from the spacecraft
   Object 13: a black background with a white and red light
 
-Frame 151:
+Frame 152.0:
   Object 1: a white plastic cup with a black lid
   Object 2: a white bird with a black background
   Object 3: a person is standing in the dark
