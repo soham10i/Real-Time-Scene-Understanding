@@ -1,0 +1,2350 @@
+Frame 1.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a black and white cat is looking at the camera
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black and white photo of a person with a black background
+  Object 6: a small asteroid is seen in the sky
+  Object 7: a black background with a white light
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a black background with a white spot in the middle
+  Object 10: a black background with a red and yellow light
+
+Frame 2.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a black and white cat with a white collar
+  Object 3: the apple logo
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black background with a small white dot
+  Object 7: a small object is seen in the dark sky
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a red and white light
+  Object 10: a black background with a white and red light
+
+Frame 3.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a black and white cat with a white nose
+  Object 3: an apple logo is seen on a black background
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: a small asteroid is seen in the sky
+  Object 7: a black and white photo of a man with a beard
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a red and yellow light
+
+Frame 4.0:
+  Object 1: a cat is standing up and looking up
+  Object 2: a black and white cat with a white nose
+  Object 3: a black and white photo of a man with a beard
+  Object 4: the apple logo
+  Object 5: a black background with a white and blue light
+  Object 6: a small object is seen in the dark sky
+  Object 7: a black and white photo of a man in a suit
+  Object 8: the moon is seen in the sky as it passes through the earth
+  Object 9: a black background with a red and yellow light
+  Object 10: a black background with a white and red light
+  Object 11: a black background with a white and red light
+
+Frame 5.0:
+  Object 1: a man is standing in the dark
+  Object 2: a black and white cat with a white nose
+  Object 3: a black and white photo of a man with a beard
+  Object 4: an apple logo is seen on a screen
+  Object 5: a black background with a white and blue light
+  Object 6: a black and white image of a man with a beard
+  Object 7: a small object is seen in the dark sky
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a red and yellow light
+  Object 10: a black and white photo of a man in a suit
+
+Frame 6.0:
+  Object 1: a man in a suit and tie is standing in the dark
+  Object 2: a black and white cat with a white face
+  Object 3: an apple logo is seen on a screen in this und - colored image
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a small object is seen in the dark sky
+  Object 8: a black background with a small white dot
+  Object 9: a red candle in the dark
+  Object 10: a black background with a white and red light
+
+Frame 7.0:
+  Object 1: a black and white cat with a white collar
+  Object 2: a man in a suit and tie is pointing at something
+  Object 3: a black background with a white cat
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a small object is seen in the dark sky
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a red and yellow light
+  Object 10: a black and white photo of a man in a suit
+  Object 11: the moon is seen in this image taken from the spacecraft
+
+Frame 8.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a man in a suit and tie is pointing at something
+  Object 3: a black and white photo of a bird
+  Object 4: a black background with a white and blue light
+  Object 5: a black and white photo of a man with a beard
+  Object 6: the moon is seen in this image taken from the spacecraft
+  Object 7: a black and white photo of a man in a suit
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a red and yellow light
+  Object 10: a black and white photo of a man in a suit
+
+Frame 9.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a person is holding a cell phone
+  Object 3: a black and white photo of a man in a suit
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: a man in a suit and tie is standing
+  Object 7: a black background with a small white object
+  Object 8: a black background with a red and yellow light
+  Object 9: a black background with a small white dot
+  Object 10: the moon is seen in this image taken from the spacecraft
+
+Frame 10.0:
+  Object 1: a black and white cat with a white collar
+  Object 2: a man is standing in the dark
+  Object 3: a black and white photo of a man in a suit
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: a black and white dog with a black collar
+  Object 7: the moon is seen in this image taken from nasa
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a small white dot
+  Object 10: a black and white image of a man in a suit
+  Object 11: a black background with a white and red light
+
+Frame 11.0:
+  Object 1: a black and white cat with a white collar
+  Object 2: a man in a suit and tie is holding a knife
+  Object 3: a black and white photo of a bird
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: the moon is seen in this image taken from nasa
+  Object 7: a black and white dog with a black collar
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a small white dot
+  Object 10: a black background with a white and black image of a man
+
+Frame 12.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a man in a suit and tie is standing in front of a black background
+  Object 3: an apple logo is seen on a screen in this und - toned image
+  Object 4: a man in a suit and tie standing in the dark
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a pair of black shoes with a white sole
+  Object 7: a small white object is seen in the dark sky
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a small white dot
+  Object 10: a white and black square with a black background
+
+Frame 13.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a man in a suit and tie is standing in the dark
+  Object 3: an apple logo is seen on a screen in this und - colored image
+  Object 4: a black background with a white and blue light
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a pair of black shoes with a white sole
+  Object 7: the saturn saturn saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn,
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: the logo for the new apple watch
+  Object 10: a black background with a white spot in the middle
+  Object 11: the moon is seen in this image taken from the spacecraft
+
+Frame 14.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a cat is standing in the dark
+  Object 3: the apple logo is seen on an iphone
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: a small asteroid is seen in the dark sky
+  Object 7: a pair of black shoes with a white sole
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a white and red light
+  Object 10: the moon is seen in this image taken from nasa
+  Object 11: a black background with a white and black image of a man
+
+Frame 15.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a cat is standing in the dark
+  Object 3: an apple logo is seen on a screen in this und - colored image
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black background with a white and blue light
+  Object 6: the saturn saturn saturn is seen in this image taken from nasa
+  Object 7: a pair of black shoes with a white sole
+  Object 8: a black background with a white and red light
+  Object 9: a man in a suit and tie standing in the dark
+  Object 10: the logo for the new apple watch
+  Object 11: the moon is seen in this image taken from the spacecraft
+
+Frame 16.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a cat is sitting on a black surface
+  Object 3: the apple logo
+  Object 4: a black and white photo of a bird
+  Object 5: a black background with a white and blue light
+  Object 6: a small object is seen in the dark sky
+  Object 7: a man in a suit and tie is holding a gun
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a white and blue logo
+  Object 10: a man in a suit and tie standing in the dark
+
+Frame 17.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a cat is sitting on a black surface
+  Object 3: the logo for the apple watch
+  Object 4: a black and white photo of a bird
+  Object 5: a man in a suit and tie is holding a gun
+  Object 6: the saturn saturn saturn is seen in this image taken from the spacecraft
+  Object 7: a black background with a white star in the middle
+  Object 8: a black background with a white spot in the middle
+  Object 9: a black background with a white and blue logo
+  Object 10: the logo for the new york
+  Object 11: a man in a suit and tie standing in the dark
+  Object 12: the moon is seen in this image taken from the spacecraft
+
+Frame 18.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a cat is sitting on a black surface
+  Object 3: the apple logo
+  Object 4: the saturn saturn saturn saturn is seen in this image taken from the spacecraft
+  Object 5: a black and white dog with a black collar
+  Object 6: a black and white photo of a bird flying
+  Object 7: a black background with a white and blue light
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a white and blue logo
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black and white photo of a man in a suit
+  Object 12: a black background with a white and red light
+
+Frame 19.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a cat is sitting on the floor and looking at the camera
+  Object 3: an apple logo is seen on a screen in this und - colored image
+  Object 4: the saturn saturn saturn saturn is seen in this image taken from nasa
+  Object 5: a black background with a white and blue light
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a man in a suit and tie is standing on a black background
+  Object 8: a black background with a small white dot
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a black background with a white and black text
+  Object 11: a black and white photo of a woman with a black hair
+
+Frame 20.0:
+  Object 1: a black and white cat with a white collar
+  Object 2: a cat is sitting on a black surface
+  Object 3: the logo for the apple watch
+  Object 4: the saturn saturn saturn saturn is seen in this image taken from nasa
+  Object 5: a black and white photo of a bird
+  Object 6: a black background with a white and blue light
+  Object 7: a black and white photo of a man in a suit
+  Object 8: the moon is seen in this image taken from the sky
+  Object 9: a black and white photo of a man with a beard
+  Object 10: a black background with a white spot in the middle
+  Object 11: the moon is seen in the sky as it passes through the earth
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black and white photo of a man with a beard
+
+Frame 21.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a cat is standing in the dark
+  Object 3: apple iphone 5s
+  Object 4: a black background with a white and blue light
+  Object 5: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 6: a black and white photo of a bird flying
+  Object 7: a black and white cat with a black nose
+  Object 8: a black background with a white and red text
+  Object 9: a black and white photo of a man in a suit
+  Object 10: a black background with a white spot in the middle
+  Object 11: a white and black square with a white border
+  Object 12: a man in a suit and tie standing in the dark
+  Object 13: a man in a suit and tie standing in front of a black background
+
+Frame 22.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a cat is standing in the dark
+  Object 3: the apple logo
+  Object 4: the saturn saturn saturn is seen in this image taken from nasa
+  Object 5: a black background with a white and blue light
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black and white photo of a man with a beard
+  Object 8: a black and white dog with a black collar
+  Object 9: the logo for the new yorks
+  Object 10: a black background with a white and yellow light
+  Object 11: a black background with a white spot in the middle
+  Object 12: a black background with a white and red light
+
+Frame 23.0:
+  Object 1: a black and white cat with a white collar
+  Object 2: a man in a suit and tie is holding a cell
+  Object 3: a black and white photo of a man in a suit
+  Object 4: a black and white photo of a man in a suit
+  Object 5: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 6: a man in a dark room with a black background
+  Object 7: a black and white dog with a black collar
+  Object 8: a black and white photo of a man
+  Object 9: the logo for the new company
+  Object 10: a black background with a white and red light
+  Object 11: a black background with a small white dot
+  Object 12: the moon is seen in the sky above the earth
+
+Frame 24.0:
+  Object 1: a black and white cat with a white nose
+  Object 2: a man in a suit and tie is holding a cell
+  Object 3: a black and white photo of a man in a suit
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a white and black square with a white border
+  Object 6: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 7: a black and white dog with a black collar
+  Object 8: a black background with a white and blue light
+  Object 9: the moon is seen in the sky above the earth
+  Object 10: a black background with a white and gray text
+  Object 11: a black background with a white spot in the middle
+  Object 12: a black background with a white and red light
+
+Frame 25.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a cat is looking up at a person
+  Object 3: a black and white image of a cat
+  Object 4: a white square with a black background
+  Object 5: a black and white photo of a man with a beard
+  Object 6: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 7: a man in a suit and tie is standing on a black background
+  Object 8: a black background with a white cat
+  Object 9: the moon is seen in the sky above the earth
+  Object 10: a black background with a small white dot
+  Object 11: the logo for the new york
+  Object 12: a black background with a white and red light
+  Object 13: a white and black logo with the words, ' the best of the best '
+
+Frame 26.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a cat is looking at a mouse
+  Object 3: a white and black square with a white border
+  Object 4: a black and white photo of a man in a suit
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a man in a black shirt is standing in the dark
+  Object 7: a pair of shoes with a black sole
+  Object 8: a small asteroid is seen in the dark sky
+  Object 9: a black background with a white light
+  Object 10: a black and white photo of a man with a beard
+  Object 11: a black background with a white and red light
+  Object 12: a black background with a small white dot
+  Object 13: a black background with a white and red logo
+
+Frame 27.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a white and black square with a white border
+  Object 3: a man in a black shirt and a white shirt
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a man in a black shirt is standing in the dark
+  Object 7: a man in a suit and tie is standing on a black background
+  Object 8: a black and white image of a man with a beard
+  Object 9: a black background with a white and black text
+  Object 10: a black background with a white and red light
+  Object 11: the moon is seen in the sky above the earth
+  Object 12: the asteroid is seen in this image taken from nasa
+  Object 13: a black background with a small white dot
+  Object 14: a man in a suit and tie standing in front of a black background
+
+Frame 28.0:
+  Object 1: a black and white cat with a white nose
+  Object 2: a cat is looking at a mouse
+  Object 3: the apple logo
+  Object 4: a white and black square with a white border
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a man in a suit and tie standing in the dark
+  Object 7: a man in a suit and tie is standing on a black background
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a red and yellow light
+  Object 10: a black background with a white and red light
+  Object 11: a black background with a white and black logo
+  Object 12: the moon is seen in the sky above the earth
+  Object 13: a black background with a white light
+  Object 14: a black background with a white and red light
+
+Frame 29.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a cat is sitting on a chair and looking up
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a white light on a black background
+  Object 6: a man in a suit and tie is standing on a chair
+  Object 7: a black background with a white and blue light
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a white and red light
+  Object 10: a black background with a white and red light
+  Object 11: a black background with a white and blue logo
+  Object 12: a man in a suit and tie standing in the dark
+  Object 13: the moon is seen in the sky above the earth
+  Object 14: a black background with a white and blue logo
+  Object 15: the moon is seen in the sky as it passes through the earth
+
+Frame 30.0:
+  Object 1: a black and white cat with a white nose
+  Object 2: a cat is looking at a mouse
+  Object 3: a white cat is standing in the dark
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a white square with a black background
+  Object 6: a black and white dog with a black collar
+  Object 7: a black background with a white and blue light
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a white and red light
+  Object 10: a black and white photo of a man with a beard
+  Object 11: a black background with a white and blue logo
+  Object 12: a black background with a white and blue logo
+  Object 13: the moon is seen in the sky above the earth
+  Object 14: a black background with a white and red light
+
+Frame 31.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a man in a hat and a purple shirt
+  Object 3: a black and white photo of a bird flying
+  Object 4: a black and white photo of a cat
+  Object 5: a man in the dark with a flashlight
+  Object 6: a man in a suit and tie is standing on a black background
+  Object 7: a white and black watch with a black face
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a white and red logo
+  Object 10: a black background with a white and red light
+  Object 11: a black and white photo of a man with a beard
+  Object 12: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 13: a black background with a small white dot
+  Object 14: the moon and venus
+  Object 15: the moon is seen in this image taken from the spacecraft
+  Object 16: a black background with a small white dot
+
+Frame 32.0:
+  Object 1: a black and white cat is looking up at the camera
+  Object 2: a person is flying through the air with a kite
+  Object 3: a black and white image of a man with a beard
+  Object 4: a black background with a white cat
+  Object 5: a man in a dark room with a flashlight
+  Object 6: a man in a suit and tie is standing on a chair
+  Object 7: a white square with a black background
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a white and blue logo
+  Object 10: a black background with a white and red light
+  Object 11: a man in a suit and tie standing in front of a black background
+  Object 12: the saturn saturn saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn,
+  Object 13: a black background with a small white dot
+  Object 14: the earth and moon
+  Object 15: a black background with a white and red light
+  Object 16: a black background with a small white dot
+
+Frame 33.0:
+  Object 1: a woman with long hair and a white shirt
+  Object 2: a black and white photo of a man with a beard
+  Object 3: a man in a hat and a shirt is playing a game
+  Object 4: a small white bird flying through the night sky
+  Object 5: a man in a suit and tie standing in the dark
+  Object 6: a man in a suit and tie is holding a microphone
+  Object 7: a man in a suit and tie standing in front of a black background
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a white and red light
+  Object 10: a black background with a small white dot
+  Object 11: a black background with a white line in the middle
+  Object 12: a black background with a white and red light
+  Object 13: a white and black watch with a black face
+  Object 14: the moon is seen in the sky above the earth
+
+Frame 34.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a woman in a purple dress is standing in the dark
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a black background with a white triangle
+  Object 5: a black and white dog with a black collar
+  Object 6: a black background with a white and blue light
+  Object 7: a black and white photo of a man with a beard
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a white and red light
+  Object 10: a black background with a small white object
+  Object 11: a black background with a white and red light
+  Object 12: a black background with a small white dot
+  Object 13: a white square with a black background
+  Object 14: a black background with a small white dot
+  Object 15: the moon is seen in this image taken from nasa
+
+Frame 35.0:
+  Object 1: a woman with long hair and a white shirt
+  Object 2: a man in a hat and a shirt is jumping
+  Object 3: a black and white photo of a man in a suit
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a man in a suit and tie standing in the dark
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a black background with a white and blue light
+  Object 8: a black and white image of a man with a beard
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a man in a suit and tie standing in front of a black background
+  Object 11: a man in a suit and tie standing in front of a black background
+  Object 12: a black background with a small white dot
+  Object 13: a black background with a white spot in the middle
+  Object 14: the moon is seen in this image taken from nasa
+
+Frame 36.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a man in a suit and tie holding a paper
+  Object 3: a black and white photo of a man with a beard
+  Object 4: an apple logo on a black background
+  Object 5: a black and white photo of a man in a suit
+  Object 6: a black background with a white and blue light
+  Object 7: a black background with a white and red light
+  Object 8: a black and white photo of a man in a suit
+  Object 9: a black and white photo of a man with a beard
+  Object 10: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 11: a black background with a white and red light
+  Object 12: the moon is seen in the sky above the earth
+  Object 13: a white square with a black background
+  Object 14: a black background with a small white dot
+
+Frame 37.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a man in a suit and tie holding a paper
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a black and white photo of a man in a suit
+  Object 5: a man in a suit and tie is standing on a black background
+  Object 6: a black background with a white and blue background
+  Object 7: a black and white image of a man with a beard
+  Object 8: a candle is lit in the dark
+  Object 9: a black background with a white and blue light
+  Object 10: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 11: a black background with a white and red light
+  Object 12: the moon is seen in the sky above the earth
+  Object 13: a white light bulb on a black background
+  Object 14: a black background with a white and blue logo
+
+Frame 38.0:
+  Object 1: a black and white cat is looking up at the camera
+  Object 2: a man in a suit and tie holding a paper
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a black and white photo of a man with a beard
+  Object 5: an apple logo is seen on a screen in this und - toned image
+  Object 6: a black background with a white and blue light
+  Object 7: a black and white photo of a man in a suit
+  Object 8: a black and white image of a man with a beard
+  Object 9: the saturn saturn saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn,
+  Object 10: a white and black square with a white border
+  Object 11: a black background with a white and blue light
+  Object 12: a black background with a white spot in the middle
+  Object 13: a black background with a red and white light
+  Object 14: a man in a suit and tie standing in the dark
+  Object 15: a black background with a white and blue logo
+
+Frame 39.0:
+  Object 1: a cat is standing in the dark
+  Object 2: a person is holding a cell phone
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a man in a suit and tie is standing on a black background
+  Object 5: an apple logo is seen on a screen in this und - toned image
+  Object 6: a black and white image of a man with a beard
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a white and blue light
+  Object 9: a white and black square tile with a black border
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a man in a suit and tie standing in front of a black background
+  Object 12: a black background with a white and blue light
+  Object 13: the moon is seen in the sky above the earth
+  Object 14: the moon is seen in this image taken from the spacecraft
+
+Frame 40.0:
+  Object 1: a black and white cat with a white nose
+  Object 2: a man in a suit and tie is holding a knife
+  Object 3: an apple logo is seen on a screen in this und - toned image
+  Object 4: a black and white photo of a bird flying
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black background with a white and blue light
+  Object 7: a white square with a black background
+  Object 8: a black and white image of a man with a beard
+  Object 9: a black background with a white and blue light
+  Object 10: a black and white photo of a building
+  Object 11: a man in a suit and tie standing in the dark
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the moon is seen in the sky above the earth
+
+Frame 41.0:
+  Object 1: a woman with long hair and a white shirt
+  Object 2: a man in a suit and tie holding a cell
+  Object 3: a bird flying through the air with its wings spread
+  Object 4: an apple logo is seen on a black background
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a white square with a black background
+  Object 8: a black and white logo with the words, ' the best '
+  Object 9: a black background with a white and red light
+  Object 10: a black and white photo of a city skyline
+  Object 11: a black background with a white and blue light
+  Object 12: a black background with a white and red light
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a small white object in the dark sky
+  Object 15: the earth and moon are seen in this image taken from nasa
+
+Frame 42.0:
+  Object 1: a black and white cat with a white face
+  Object 2: a man in a suit and tie holding a bottle
+  Object 3: an apple logo is seen on a screen
+  Object 4: a black and white photo of a man with a gun
+  Object 5: a black and white image of a man with a beard
+  Object 6: a black background with a white and blue light
+  Object 7: a rocket is seen in the dark sky
+  Object 8: a man in a suit and tie standing in front of a black background
+  Object 9: a black background with a white and blue light
+  Object 10: a black and white image of a man with a beard
+  Object 11: a black and white image of a man with a beard
+  Object 12: a black background with a white and red light
+  Object 13: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 14: a black background with a small white dot
+
+Frame 43.0:
+  Object 1: a cat is looking up at the camera
+  Object 2: a black background with a white outline of a person
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a man in a suit and tie holding a cell
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black background with a white and blue light
+  Object 7: a black and white photo of a building
+  Object 8: a black background with a white and blue light
+  Object 9: a black and white image of a man with a beard
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a white square with a black background
+  Object 12: a black background with a white and red light
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the moon is seen in the sky as it passes through the earth
+  Object 15: a black background with a white and red light
+
+Frame 44.0:
+  Object 1: a black and white cat is looking up at the camera
+  Object 2: a black background with a white outline of a person
+  Object 3: a black and white photo of a man in a suit
+  Object 4: a man in a suit and tie holding a bottle
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black background with a white and blue light
+  Object 7: a black and white photo of a city
+  Object 8: a black and white image of a man with a beard
+  Object 9: a black background with a white and blue light
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black and white photo of a man with a beard
+  Object 12: a man in a suit and tie standing in front of a black background
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black background with a small white dot
+  Object 15: a black background with a white and red light
+
+Frame 45.0:
+  Object 1: a man in a suit and tie holding a cup
+  Object 2: a black and white cat is looking up at the camera
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a small white object is seen in the dark
+  Object 5: a black and white photo of a man with a beard
+  Object 6: the empire building in new york
+  Object 7: a black background with a white and blue light
+  Object 8: a white and black logo with the words, ' the best of the best '
+  Object 9: a black background with a white and blue light
+  Object 10: a black and white photo of a man with a beard
+  Object 11: the earth is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+
+Frame 46.0:
+  Object 1: a black and white photo of a man in a suit
+  Object 2: a black and white cat with a white face
+  Object 3: a man in a suit and tie holding a cup
+  Object 4: a small white object in the dark sky
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a black and white photo of a man in a suit
+  Object 8: a black background with a white and blue light
+  Object 9: a black and white logo with the words, ' the black and white logo '
+  Object 10: the moon is seen in the sky above the earth
+  Object 11: a small white object in the dark sky
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a red and white light
+  Object 14: the moon is seen in the sky above the earth
+
+Frame 47.0:
+  Object 1: a black and white image of a man with a beard
+  Object 2: a man in a suit and tie holding a bottle
+  Object 3: a woman in a white shirt is standing in the dark
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a small asteroid is seen in the sky
+  Object 6: a black and white photo of a city skyline
+  Object 7: a black background with a white and blue light
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black and white photo of a man with a beard
+  Object 10: a black background with a small white dot
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and red light
+  Object 13: a black background with a white light
+  Object 14: the moon is seen in this image taken from the spacecraft
+
+Frame 48.0:
+  Object 1: a small white object in the dark sky
+  Object 2: a black and white image of a man with a beard
+  Object 3: a man in a suit and tie holding a cup
+  Object 4: a woman is standing in the dark
+  Object 5: a black and white photo of a man with a beard
+  Object 6: the dark knight of the north
+  Object 7: a white and black logo with the words, ' the best of the best '
+  Object 8: a black background with a white and blue light
+  Object 9: a white and black logo with the words, ' the best of the best '
+  Object 10: a black background with a small white dot
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the asteroid is seen in this image taken from nasa
+  Object 13: a black background with a white light
+  Object 14: the moon is seen in this image taken from the spacecraft
+
+Frame 49.0:
+  Object 1: a black and white image of a man with a beard
+  Object 2: a person holding a cell phone in their hand
+  Object 3: the dark knight of the north
+  Object 4: a black and white photo of a man in a suit
+  Object 5: the moon is seen in this image taken from the spacecraft
+  Object 6: a black and white cat is looking up at the camera
+  Object 7: a white and black logo with the words, ' the best of the best '
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a white cat in the middle
+  Object 10: a black background with a small white dot
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white line in the middle
+
+Frame 50.0:
+  Object 1: a black and white photo of a man with a beard
+  Object 2: a black and white photo of a man with a beard
+  Object 3: the apple logo is seen on a screen
+  Object 4: a black and white photo of a man in a suit
+  Object 5: a black and white cat is looking at the camera
+  Object 6: a man in a suit and tie holding a cup
+  Object 7: a black background with a white cat on it
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a small white dot
+  Object 10: a black background with a white and red star
+  Object 11: a black background with a small white dot
+  Object 12: a white square tile with a black background
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the saturn saturn saturn is seen in this image taken from nasa
+
+Frame 51.0:
+  Object 1: a black and white cat with a white tail
+  Object 2: a man in a suit and tie is standing in the dark
+  Object 3: a person holding a cup of coffee
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black and white image of a man in a suit
+  Object 6: the asteroid is seen in this image taken from nasa
+  Object 7: a black background with a white cat in the middle
+  Object 8: a white square tile with a black background
+  Object 9: a black and white photo of a man in a suit
+  Object 10: a black background with a white and black image
+  Object 11: a black background with a white light in the middle
+  Object 12: a black background with a white and red light
+  Object 13: a black background with a white and blue star
+  Object 14: the moon is seen in the sky as it passes through the earth
+
+Frame 52.0:
+  Object 1: a person is holding a cell phone
+  Object 2: the apple logo is seen on the screen of an iphone
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a black and white cat with a white tail
+  Object 5: a man in a suit and tie standing in the dark
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black and white photo of a man in a suit
+  Object 8: a black background with a white and blue light
+  Object 9: a white square shaped object with a black background
+  Object 10: a black background with a small white dot
+  Object 11: a black background with a white line in the middle
+  Object 12: a black background with a white and blue image of a man in a suit
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the moon is seen in this image taken from the sky
+  Object 15: a black background with a red light
+
+Frame 53.0:
+  Object 1: a black and white photo of a man in a suit
+  Object 2: a man in a suit and tie is standing in front of a black background
+  Object 3: a man in a hat and a white shirt
+  Object 4: the moon is seen in this image taken from the spacecraft
+  Object 5: a bird flying through the air with its wings spread
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a white line in the middle
+  Object 10: a black and white photo of a man in a suit
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a small white object is seen in the dark
+
+Frame 54.0:
+  Object 1: a man in a suit and tie is standing in the dark
+  Object 2: a black and white photo of a man with a gun
+  Object 3: a cat is sitting on a black surface
+  Object 4: an apple logo is seen on a screen
+  Object 5: a black and white cat with a black background
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a white outline of a person
+  Object 8: a black and white image of a man with a beard
+  Object 9: a black background with a small white dot
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a white line in the middle
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a bottle of white wine with a white label
+
+Frame 55.0:
+  Object 1: a man in a suit and tie is holding a cell
+  Object 2: the logo for the apple watch
+  Object 3: a black and white image of a man with a gun
+  Object 4: a small white object in the dark
+  Object 5: a cat is jumping in the air
+  Object 6: a black background with a small white dot
+  Object 7: a black and white photo of a man in a suit
+  Object 8: a black background with a small white dot
+  Object 9: a white bottle of wine with a black background
+  Object 10: a black background with a white line in the middle
+  Object 11: a black and white image of a man with a beard
+  Object 12: the moon is seen in the sky as it passes through the earth
+  Object 13: the moon is seen in this image taken from the spacecraft
+
+Frame 56.0:
+  Object 1: a black and white photo of a man with a gun
+  Object 2: a man in a suit and tie is holding a cell
+  Object 3: a cat is looking up at the camera
+  Object 4: the logo for the apple watch
+  Object 5: the apple logo is seen on a black background
+  Object 6: a black and white photo of a bird
+  Object 7: a black background with a white cat in the middle
+  Object 8: a black background with a small white dot
+  Object 9: a white and black logo for the new york
+  Object 10: a black and white logo with the words, ' the best of the best '
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and red light
+
+Frame 57.0:
+  Object 1: a man in a suit and tie is standing in the dark
+  Object 2: a man with a beard and a black shirt
+  Object 3: a small white object in the dark
+  Object 4: a black and white photo of a bird
+  Object 5: a cat is sitting on a black surface
+  Object 6: a black background with a small white dot
+  Object 7: a black background with a white cat on it
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black and white image of a man with a beard
+  Object 10: a white and black logo with the words ' the best '
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in this image taken from nasa
+
+Frame 58.0:
+  Object 1: a man in a suit and tie is standing in the dark
+  Object 2: a black background with a white outline of a cat
+  Object 3: a woman with a black shirt and a white shirt
+  Object 4: a black and white cat with a black background
+  Object 5: a cat is sitting on a black surface
+  Object 6: a black and white image of a man with a beard
+  Object 7: a black background with a white and blue star
+  Object 8: a black background with a small white dot
+  Object 9: a black and white image of a cross
+  Object 10: the moon is seen in the sky over the city
+  Object 11: a white and black logo with the words, ' the best of the best '
+  Object 12: a black background with a white line in the middle
+  Object 13: the moon is seen in this image taken from nasa
+  Object 14: a black background with a white and red light
+  Object 15: the moon is seen in this image taken from the spacecraft
+
+Frame 59.0:
+  Object 1: a man in a suit and tie standing in the dark
+  Object 2: a small white dog is standing in the dark
+  Object 3: a black and white cat with a white tail
+  Object 4: a man in a suit and tie is holding a cell
+  Object 5: a cat is sitting on a black surface
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a white bottle of wine with a black label
+  Object 8: a black and white image of a man with a beard
+  Object 9: a black background with a small white dot
+  Object 10: a black background with a white cat
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in the sky as it passes through the earth
+  Object 13: a black background with a white line in the middle
+  Object 14: a small asteroid is seen in the dark sky
+  Object 15: a black background with a white and red light
+
+Frame 60.0:
+  Object 1: a black and white cat with a black background
+  Object 2: a cat is looking up at the camera
+  Object 3: a black and white photo of a bird
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a woman with a black shirt and a white shirt
+  Object 6: a bird flying through the night sky
+  Object 7: a black background with a small white dot
+  Object 8: a white and black bottle of wine
+  Object 9: a black background with a white and blue pattern
+  Object 10: a black and white image of a man with a beard
+  Object 11: a black background with a small white dot
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and red light
+
+Frame 61.0:
+  Object 1: a man with a beard and a beard
+  Object 2: a woman in a white shirt and black pants
+  Object 3: a woman with a black shirt and a white shirt
+  Object 4: a bird flying through the air with its wings spread
+  Object 5: a cat is looking up at the camera
+  Object 6: a black background with a white and blue pattern
+  Object 7: a bottle of wine with a white label
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a small white dot
+  Object 10: a black and white image of a man with a beard
+  Object 11: the saturn saturn saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn,
+  Object 12: the moon is seen in the dark sky
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a fire in the dark
+
+Frame 62.0:
+  Object 1: a small white bird flying through the air
+  Object 2: a black and white cat with a white tail
+  Object 3: a woman in a white shirt and black pants
+  Object 4: a cat is sitting on a chair and looking up
+  Object 5: a woman with a black shirt and a white shirt
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a white and blue pattern
+  Object 8: a bottle of white wine with a white label
+  Object 9: a black and white image of a man with a gun
+  Object 10: a black background with a small white dot
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and red light
+  Object 13: a black background with a white and red light
+  Object 14: a black background with a white and black image of a man
+  Object 15: a black background with a small white dot
+
+Frame 63.0:
+  Object 1: a hand holding a small white object
+  Object 2: a black and white cat with a white collar
+  Object 3: a black and white cat with a white tail
+  Object 4: a man in a suit and tie is standing in the dark
+  Object 5: a black background with a white and red logo
+  Object 6: a woman in a black dress is sitting on a chair
+  Object 7: a white and black square shaped object
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a small white dot
+  Object 10: a black and white image of a man with a gun
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a small white dot
+  Object 13: a black background with a red and yellow light
+  Object 14: the asteroid is seen in this image taken from nasa
+
+Frame 64.0:
+  Object 1: a hand holding a small object in the dark
+  Object 2: a black and white cat with a white tail
+  Object 3: a black and white cat with a black background
+  Object 4: a man in a suit and tie is standing in the dark
+  Object 5: a woman with a pink shirt and a black background
+  Object 6: a white and black bottle of wine
+  Object 7: a black background with a white and black image
+  Object 8: a black and white image of a man with a gun
+  Object 9: the moon and venus in the dark sky
+  Object 10: a black and white photo of a man with a beard
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and red light
+  Object 13: a black background with a small white dot
+  Object 14: a black background with a white line in the middle
+  Object 15: a black background with a white and blue light
+
+Frame 65.0:
+  Object 1: a small white object with a black background
+  Object 2: a black and white cat with a black background
+  Object 3: a black and white cat with a black background
+  Object 4: a black background with a white and red logo
+  Object 5: a person is doing a trick on a skateboard
+  Object 6: a woman in a white dress is holding a pink flower
+  Object 7: a white and black logo for the new york
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a white outline
+  Object 10: a black and white image of a man with a beard
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and red light
+  Object 13: a black background with a white and blue logo
+  Object 14: a black background with a small pink dot
+
+Frame 66.0:
+  Object 1: a black and white cat with a white tail
+  Object 2: a small white mouse on a black background
+  Object 3: a black and white cat with a black background
+  Object 4: a person is standing in the dark
+  Object 5: a black and white image of a man in a suit
+  Object 6: a bottle of white wine with a black background
+  Object 7: a woman with a pink shirt and a black background
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black background with a small purple flower
+  Object 10: a black and white image of a man with a beard
+  Object 11: a small object is seen in the dark sky
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: the moon is seen through a telescope lens
+  Object 14: a black background with a small red dot
+
+Frame 67.0:
+  Object 1: a black and white cat
+  Object 2: a black and white cat with a black background
+  Object 3: a small white bird flying through the air
+  Object 4: a man in a suit and tie is standing in the dark
+  Object 5: a woman with a black shirt and a white shirt
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a white cat in the middle
+  Object 8: a white and black logo for the new york
+  Object 9: a black background with a small white dot
+  Object 10: a black and white image of a man with a beard
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a candle in the dark
+  Object 13: a black background with a white and black image
+
+Frame 68.0:
+  Object 1: a cat is sitting on a black surface
+  Object 2: a black and white cat with a white tail
+  Object 3: a man in a suit and tie is standing in front of a black background
+  Object 4: a woman is holding a cell phone
+  Object 5: a bottle of wine with a white label
+  Object 6: a bird flying through the air with its wings spread
+  Object 7: a black and white photo of a man with a beard
+  Object 8: an apple logo on a black background
+  Object 9: a black background with a small white dot
+  Object 10: a black background with a white line and a white line
+  Object 11: a small white object is seen in the dark sky
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white spot in the middle
+  Object 14: a black background with a small white dot
+  Object 15: a candle with a candle in the middle
+
+Frame 69.0:
+  Object 1: a black and white cat with a white tail
+  Object 2: a cat is standing in the dark
+  Object 3: a white square shaped object with a black background
+  Object 4: a person is holding a knife and a knife
+  Object 5: a woman with a black shirt and a white shirt
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a white outline of a man
+  Object 8: a black background with a small white dot
+  Object 9: a small white bird flying through the air
+  Object 10: a black and white image of a cross
+  Object 11: the asteroid is seen in this image taken from nasa
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the moon is seen in this image taken from the spacecraft
+
+Frame 70.0:
+  Object 1: a small dog with a red nose and a black background
+  Object 2: a black and white cat with a white tail
+  Object 3: a black and white cat with a black background
+  Object 4: a white and black logo with the words, ' the best of the best '
+  Object 5: a black background with a white and black logo
+  Object 6: a woman is holding a cell phone
+  Object 7: a black and white image of a man in a suit
+  Object 8: a white cat is standing in the dark
+  Object 9: a black and white logo with the words, ' the best of the best '
+  Object 10: a black background with a small white dot
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and red light
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the moon is seen in this image taken from the spacecraft
+
+Frame 71.0:
+  Object 1: a person is holding a knife and a knife
+  Object 2: a black and white cat with a black background
+  Object 3: a small dog with a large nose and a small nose
+  Object 4: a white and black square tile with a black border
+  Object 5: a white cat is standing in the dark
+  Object 6: a woman is holding a cell phone
+  Object 7: a black and white photo of a man with a beard
+  Object 8: a black and white image of a man in a suit
+  Object 9: a black and white image of a man with a beard
+  Object 10: a small white object in the dark sky
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and red light
+  Object 14: the moon is seen in this image taken from the spacecraft
+  Object 15: the moon and venus
+
+Frame 72.0:
+  Object 1: a small bird flying through the air
+  Object 2: a black and white bird flying through the air
+  Object 3: a cat is standing on its hinds
+  Object 4: a bottle of wine with a white label
+  Object 5: a white cat is standing in the dark
+  Object 6: an apple logo on a black background
+  Object 7: a small white cake with a lit candle on top
+  Object 8: a black and white photo of a man with a beard
+  Object 9: a black and white photo of a man in a suit
+  Object 10: a small white object in the dark sky
+  Object 11: the saturn saturn saturn saturn is seen in this image taken from nasa
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black background with a white and yellow light
+  Object 15: a black background with a white and red light
+
+Frame 73.0:
+  Object 1: a small bird flying through the air
+  Object 2: a cat is standing in the dark
+  Object 3: a black and white cat with a black background
+  Object 4: a small white bird flying through the air
+  Object 5: a bottle of wine with a white label
+  Object 6: a small white dog is sitting on a black background
+  Object 7: a black background with a white cat
+  Object 8: a black and white image of a man in a suit
+  Object 9: a black and white logo with the words, ' the best of the best '
+  Object 10: a black background with a small white object in the middle
+  Object 11: saturn and saturn
+  Object 12: the saturn saturn saturn saturn is seen in this image taken from nasa
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black background with a white and red light
+  Object 15: the moon is seen in this image taken from the spacecraft
+
+Frame 74.0:
+  Object 1: a cat is standing on a black surface
+  Object 2: a white and black bird flying through the air
+  Object 3: a small brown dog with a black background
+  Object 4: a white box with a black lid
+  Object 5: a white cat is standing in the dark
+  Object 6: the logo for the new york
+  Object 7: a black background with a white cat
+  Object 8: a black and white image of a man in a suit
+  Object 9: a woman in a white dress is standing in front of a black background
+  Object 10: a black background with a small white dot
+  Object 11: the moon is seen in this image taken from nasa
+  Object 12: a black background with a white and black image
+  Object 13: a black background with a white and red light
+  Object 14: a small white object is flying through the air
+  Object 15: the moon is seen in this image taken from the sky
+
+Frame 75.0:
+  Object 1: a person with a knife in their hand
+  Object 2: a white flower with a black background
+  Object 3: a small white bird flying through the night sky
+  Object 4: a white lamp with a black background
+  Object 5: a cat is standing on a black background
+  Object 6: a black background with a white cat
+  Object 7: a black and white logo with the words, ' the best of the best '
+  Object 8: a candle with a candle on top of it
+  Object 9: a black and white image of a man in a suit
+  Object 10: the moon is seen in the sky above the earth
+  Object 11: the moon is seen in this image taken from nasa
+  Object 12: a black background with a white and red light
+  Object 13: a black background with a white and blue logo
+  Object 14: the moon is seen in this image taken from the spacecraft
+  Object 15: a black background with a white and black image
+
+Frame 76.0:
+  Object 1: a person with a knife and a knife in their hand
+  Object 2: a white flower with a black background
+  Object 3: a bottle of white wine with a black background
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a white cat is standing in the dark
+  Object 6: a black and white logo with the words, ' the best of the best '
+  Object 7: a dog is standing in the dark
+  Object 8: a black and white image of a man with a gun
+  Object 9: a candle is lit in the dark
+  Object 10: the moon is seen in the sky above the earth
+  Object 11: a black background with a white and black image
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the moon is seen in this image taken from nasa
+  Object 15: the moon is seen in this image taken from the spacecraft
+  Object 16: a black background with a white and red light
+
+Frame 77.0:
+  Object 1: a person is holding a knife and a knife
+  Object 2: a white flower with a black background
+  Object 3: a white and black bottle of wine
+  Object 4: a small white bird flying through the air
+  Object 5: a black background with a white bird flying in the air
+  Object 6: a cat is standing in the dark
+  Object 7: a candle is lit in the dark
+  Object 8: a black background with a white outline of a man
+  Object 9: a black and white image of a man with a beard
+  Object 10: the moon is seen in the sky above the earth
+  Object 11: the moon is seen in this image taken from nasa
+  Object 12: a black background with a small white dot
+  Object 13: a black background with a white light
+  Object 14: a black background with a white and red logo
+  Object 15: a black background with a white circle
+
+Frame 78.0:
+  Object 1: a small dog with a pink collar and a black collar
+  Object 2: a black and white logo with a white background
+  Object 3: a black background with a white bird flying
+  Object 4: the moon is seen in this image taken from the spacecraft
+  Object 5: a black and white cat with a white nose
+  Object 6: a white and black logo for the new york
+  Object 7: a black and white image of a man in a suit
+  Object 8: a candle is lit in the dark
+  Object 9: a black and white image of a man with a gun
+  Object 10: the moon is seen in the sky above the earth
+  Object 11: a black background with a white line in the middle
+  Object 12: a black background with a white spot in the middle
+  Object 13: the moon is seen in this image taken from nasa
+  Object 14: a black background with a white and brown line
+  Object 15: a black background with a white and blue light
+  Object 16: a black background with a white and blue star
+
+Frame 79.0:
+  Object 1: a small bird flying through the air
+  Object 2: a white and black logo with a white and black logo
+  Object 3: a black background with a white bird flying
+  Object 4: the moon is seen in this image taken from the spacecraft
+  Object 5: a white plastic cup with a black lid
+  Object 6: a cat is standing in the dark
+  Object 7: a black and white logo with the words, ' the best of the best '
+  Object 8: a black background with a white and blue logo
+  Object 9: a candle is lit in the dark
+  Object 10: the moon is seen in the dark sky
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a gold and white logo
+  Object 13: a black background with a white and blue light
+  Object 14: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 15: a black background with a small white object in the middle
+
+Frame 80.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: a small dog is standing in the dark
+  Object 3: a white and black bird flying in the air
+  Object 4: the moon is seen in this image taken from the spacecraft
+  Object 5: a black and white cat with a white nose
+  Object 6: a black and white cat with a white tail
+  Object 7: a black background with a white and black image
+  Object 8: a black and white logo with the words, ' the best of the best '
+  Object 9: the moon is seen in the dark sky
+  Object 10: a black background with a small white dot
+  Object 11: a man in a suit and tie is standing in front of a black background
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and black image
+  Object 14: a black and white cat with a pink nose
+  Object 15: a black background with a small white dot
+
+Frame 81.0:
+  Object 1: a cat is standing in the dark
+  Object 2: a white and black bird flying in the air
+  Object 3: an image of a black background with a white cat
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a white and black logo with the words, ' the best of the best '
+  Object 6: a black and white cat with a white nose
+  Object 7: a black background with a white outline of a man
+  Object 8: a black and white logo with the words, ' the best of the best '
+  Object 9: a black background with a small white dot
+  Object 10: the moon is seen in this image taken from the camera
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in the sky above the earth
+  Object 13: the logo for the new york
+  Object 14: a man in a suit and tie standing in front of a black background
+  Object 15: a black background with a white and brown logo
+  Object 16: the moon is seen in this image taken from nasa
+
+Frame 82.0:
+  Object 1: a white and black cat with a black background
+  Object 2: a small dog with a black background
+  Object 3: an apple logo is seen on the screen of an iphone
+  Object 4: a black and white cat with a white nose
+  Object 5: a white and black logo with the words, ' the best of the best '
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a small white dot
+  Object 8: a black background with a white outline of a man
+  Object 9: a black background with a small white dot
+  Object 10: a man in a suit and tie standing on a stage
+  Object 11: a black background with a white and red light
+  Object 12: a white and black cat with a black nose
+
+Frame 83.0:
+  Object 1: a black background with a small white dot
+  Object 2: a white flower with a black background
+  Object 3: a white and black logo with the words, ' the best of the best '
+  Object 4: a black and white cat with a white face
+  Object 5: the moon is seen in this image taken from the spacecraft
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a white and purple logo
+  Object 9: a black background with a white and red light
+  Object 10: a black background with a white spot in the middle
+  Object 11: a black and white logo with the words, ' the best of the best '
+  Object 12: a black background with a white and blue star
+  Object 13: a bird flying in the air with a black background
+  Object 14: a black background with a white line in the middle
+  Object 15: the moon is seen in this image taken from nasa
+
+Frame 84.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: the moon is seen in this image taken from the spacecraft
+  Object 3: a small dog with a black background
+  Object 4: a white and black logo with the words, ' the best of the best '
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black and white cat with a white tail
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a small white dot
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a black background with a white circle
+  Object 11: the logo for the new york
+  Object 12: a purple flower on a black background
+  Object 13: a black background with a white light
+
+Frame 85.0:
+  Object 1: a black and white cat with a white tail
+  Object 2: a black and white photo of a man with a beard
+  Object 3: a small brown dog with a black nose
+  Object 4: the apple logo is seen on the screen of an iphone
+  Object 5: a white and black logo with the words, ' the best of the best '
+  Object 6: a black and white cat with a white tail
+  Object 7: a black and white image of a man in a suit
+  Object 8: a black background with a small white dot
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a man in a suit and tie standing in front of a black background
+  Object 11: a black background with a white and black image
+  Object 12: a black and white logo with the words, ' the best of the best '
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black background with a white and blue logo
+  Object 15: the logo for the new york
+  Object 16: the moon is seen in the sky above the earth
+  Object 17: a black background with a white and brown dog
+
+Frame 86.0:
+  Object 1: a white flower with a black background
+  Object 2: a black background with a small white dot
+  Object 3: the apple logo is seen on a black background
+  Object 4: a black and white photo of a man with a beard
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black and white cat with a white nose
+  Object 7: a black background with a white and red light
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a black and white image of a man with a gun
+  Object 10: a purple flower on a black background
+  Object 11: the moon and venus
+  Object 12: a white and black logo with the words, ' the best of the best '
+  Object 13: a small white object is flying through the air
+  Object 14: the moon and venus
+  Object 15: a black background with a white and red light
+
+Frame 87.0:
+  Object 1: a cat with a black background
+  Object 2: a white flower with a black background
+  Object 3: a white box with a black background
+  Object 4: a black and white photo of a man with a beard
+  Object 5: the apple logo is seen on the screen
+  Object 6: a black and white cat with a white tail
+  Object 7: a black and white image of a man in a suit
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon and venus in the dark sky
+  Object 11: a black background with a purple and blue light
+  Object 12: a black background with a white and blue logo
+  Object 13: a black and white logo with the words, ' the best of the best '
+  Object 14: the moon is seen in this image taken from nasa
+
+Frame 88.0:
+  Object 1: a small dog with a black background
+  Object 2: a white flower with a black background
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a black and white cat is standing in the dark
+  Object 5: a white square shaped object with a black background
+  Object 6: an apple logo is seen on the screen of an iphone
+  Object 7: a black and white image of a man with a gun
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: the moon is seen in the dark sky
+  Object 10: a small white object is flying through the air
+  Object 11: a black background with a white circle and a white circle
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a purple flower
+  Object 14: the logo for the new york area
+  Object 15: a black and white logo with the words, ' the best of the best '
+
+Frame 89.0:
+  Object 1: a cat is standing in the dark
+  Object 2: a white flower with a black background
+  Object 3: a white plastic cup with a black lid
+  Object 4: a black and white photo of a man in a suit
+  Object 5: a black and white photo of a man with a beard
+  Object 6: the apple logo is seen on the screen
+  Object 7: a black and white image of a man with a gun
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a black background with a white and black image
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a small white object in the middle
+  Object 12: a black background with a white cross on it
+  Object 13: a black and white image of a man with a gun
+  Object 14: a man in a suit and tie standing in front of a black background
+  Object 15: the logo for the new york area
+  Object 16: a black background with a white and red light
+
+Frame 90.0:
+  Object 1: a white flower with a black background
+  Object 2: a cat with a black background
+  Object 3: a white plastic cup with a black lid
+  Object 4: a black and white cat is standing in the dark
+  Object 5: the apple logo is seen on a screen
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black background with a small white object in the middle
+  Object 8: a black and white image of a man in a suit
+  Object 9: a small white object in the dark sky
+  Object 10: a black and white image of a man with a gun
+  Object 11: a black background with a white line in the middle
+  Object 12: the logo for the new york area
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black background with a white and purple flower
+  Object 15: a black background with a white and blue logo
+
+Frame 91.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a white bird flying through the air
+  Object 3: a person is standing in the dark
+  Object 4: an apple logo is seen on a screen
+  Object 5: a black and white logo with the words, ' the black and white logo is a white bird with a
+  Object 6: a black and white photo of a cat
+  Object 7: a black background with a small white object in the middle
+  Object 8: a black and white image of a man in a suit
+  Object 9: a black and white image of a man with a gun
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a white circle
+  Object 12: the logo for the new york
+  Object 13: the moon is seen in this image taken from the spacecraft
+
+Frame 92.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a white bird flying through the air
+  Object 3: a black background with a small white object
+  Object 4: an apple logo is seen on the screen of an iphone
+  Object 5: a black and white image of a man with a beard
+  Object 6: a black and white photo of a man with a beard
+  Object 7: a black and white image of a man with a beard
+  Object 8: a black and white logo with the words, ' the best of the best '
+  Object 9: a black and white image of a man in a suit
+  Object 10: a small white object in the dark sky
+  Object 11: a black background with a small white object in the middle
+  Object 12: the logo for the new york
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black background with a white and blue light
+
+Frame 93.0:
+  Object 1: a white bottle of wine with a black label
+  Object 2: the logo for the new game, the game ' s first - person
+  Object 3: a person with a knife in their hand
+  Object 4: a white and black cat with a black nose
+  Object 5: an apple logo is seen on the screen of an iphone
+  Object 6: a black and white cat with a white nose
+  Object 7: a black and white logo with the words, ' the best of the best '
+  Object 8: a black background with a white circle on the left side
+  Object 9: a black background with a small white dot
+  Object 10: a black and white image of a man with a beard
+  Object 11: a black background with a white and black image
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: the logo for the new york area
+  Object 14: a blue and white logo on a black background
+
+Frame 94.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a person with a purple shirt and a black background
+  Object 3: an apple logo is seen on a screen
+  Object 4: a white and black cat with a black background
+  Object 5: a black and white image of a man with a beard
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a black background with a small white object in the middle
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: the logo for the new york
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york
+  Object 12: a black and white logo with the words, ' the black and white logo is a black and white logo
+  Object 13: the moon is seen in this image taken from the sky
+
+Frame 95.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a small dog with a black background
+  Object 3: an apple logo is seen on the screen of an iphone
+  Object 4: a white butterfly flying through the air
+  Object 5: a black and white image of a man with a beard
+  Object 6: a black and white cat is looking at the camera
+  Object 7: the moon is seen in the sky as it passes through the earth
+  Object 8: a small object is seen in the dark sky
+  Object 9: a black and white photo of a man in a suit
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york area
+  Object 12: a black and white logo with the words, ' the best of the best '
+  Object 13: the moon is seen in this image taken from the spacecraft
+
+Frame 96.0:
+  Object 1: a white and black logo with the words ' the best '
+  Object 2: a small dog with a black background
+  Object 3: the apple logo is seen on the screen of an iphone
+  Object 4: a white bird flying through the air
+  Object 5: the logo for the new game, the game ' s first - person
+  Object 6: the moon is seen in this image taken from the spacecraft
+  Object 7: a black and white cat is looking at the camera
+  Object 8: a black and white image of a man with a beard
+  Object 9: the logo for the new york area
+  Object 10: the moon is seen in this image taken from nasa
+  Object 11: a black background with a white and red light
+  Object 12: a black and white logo with the words, ' the best '
+  Object 13: the moon is seen in this image taken from the sky
+
+Frame 97.0:
+  Object 1: a white and black logo with the words ' the best '
+  Object 2: a purple and black cat with a black background
+  Object 3: the apple logo is seen on a black background
+  Object 4: a black and white image of a man with a beard
+  Object 5: a white and black cat with a black background
+  Object 6: a black and white cat with a white nose
+  Object 7: a black and white image of a man with a gun
+  Object 8: a black background with a white and black text
+  Object 9: the logo for the new york area
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a small white dot
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black and white logo with the words, ' the best of the best '
+
+Frame 98.0:
+  Object 1: a white box with a black lid
+  Object 2: a small dog with a black background
+  Object 3: a white butterfly flying through the air
+  Object 4: the apple logo is shown on a black background
+  Object 5: a black and white image of a man with a beard
+  Object 6: a black and white cat is standing in the dark
+  Object 7: the logo for the new york
+  Object 8: a black and white image of a bird flying
+  Object 9: a black background with a small white dot
+  Object 10: a black background with a white and black image
+  Object 11: the moon is seen in the sky as it rises over the earth
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black and white logo with the words, ' the best of the best '
+
+Frame 99.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a white bird flying through the air
+  Object 3: a black background with a white and brown cat
+  Object 4: the apple logo
+  Object 5: a black and white image of a man with a beard
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a black background with a small white dot
+  Object 8: a black background with a white line in the middle
+  Object 9: the logo for the new york area
+  Object 10: the moon is seen in the sky as it passes through the earth
+  Object 11: a black and white image of a man with a beard
+  Object 12: the moon is seen in this image taken from the sky
+  Object 13: the logo for the new york
+
+Frame 100.0:
+  Object 1: a white paper airplane flying through the air
+  Object 2: a white bird flying through the air
+  Object 3: a cat is looking up at the camera
+  Object 4: the apple logo
+  Object 5: the logo for the new york
+  Object 6: a black background with a small white object in the middle
+  Object 7: a black and white photo of a person in the dark
+  Object 8: a black background with a white and black image
+  Object 9: a black background with a small white dot
+  Object 10: a black and white image of a man with a beard
+  Object 11: a black and white image of a cross
+  Object 12: the logo for the new york area
+  Object 13: the moon is seen in this image taken from the spacecraft
+
+Frame 101.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a white flower with a black background
+  Object 3: a black background with a white and brown cat
+  Object 4: the apple logo is seen on a black background
+  Object 5: a black and white photo of a man with a beard
+  Object 6: a black background with a white line in the middle
+  Object 7: a black and white photo of a man in a suit
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a black background with a white and blue logo
+  Object 11: the saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn saturn
+  Object 12: the logo for the new york area
+  Object 13: a black background with a white and red light
+  Object 14: a black and white image of a cross
+
+Frame 102.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a white butterfly flying through the air
+  Object 3: an apple logo is seen on the screen of an iphone
+  Object 4: a black background with a small white dot
+  Object 5: a white bird flying through the air
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a white line in the middle
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york area
+  Object 12: a black and white image of a cross
+  Object 13: a black background with a white and red light
+
+Frame 103.0:
+  Object 1: a white box with a black background
+  Object 2: a white butterfly flying through the air
+  Object 3: the moon is seen in this image taken from the spacecraft
+  Object 4: a white and black logo with the words, ' the best of the best '
+  Object 5: a small bird is flying through the air
+  Object 6: a black and white photo of a person
+  Object 7: a black background with a white and blue pattern
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a black background with a small white object
+  Object 11: a black and white logo with the words, ' the logo for the company '
+  Object 12: the moon is seen in this image taken from the sky
+  Object 13: the logo for the new york
+  Object 14: the moon is seen in this image taken from the spacecraft
+
+Frame 104.0:
+  Object 1: a white box with a black background
+  Object 2: a white butterfly flying through the air
+  Object 3: the apple logo is seen on the screen of an iphone
+  Object 4: a small bird sitting on top of a wooden block
+  Object 5: the logo for the new york
+  Object 6: a black background with a white cross on it
+  Object 7: a black and white cat is standing in the dark
+  Object 8: the black hole in the ground is a hole that has been dug into the ground
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black and white logo with the letter t
+  Object 12: the logo for the new york
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black background with a white and red light
+  Object 15: the moon is seen in this image taken from the spacecraft
+
+Frame 105.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: an image of a small white object in the dark sky
+  Object 3: a black and white photo of a man with a beard
+  Object 4: a person is standing in the dark
+  Object 5: a white bird flying through the air
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a black background with a white and blue pattern
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a small object is seen in the dark sky
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black and white logo with the words, ' the logo for the company '
+  Object 12: a black background with a white and yellow logo
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the logo for the new york area
+  Object 15: the moon is seen in this image taken from the sky
+
+Frame 106.0:
+  Object 1: a white box with a black background
+  Object 2: a white bird flying through the air
+  Object 3: an image of a small white object in the dark
+  Object 4: a black and white logo with the words ' ' '
+  Object 5: a person with a knife in their hand
+  Object 6: an apple logo is seen on the screen of an iphone
+  Object 7: a black and white image of a man with a beard
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a black background with a small white dot
+  Object 10: a black background with a white and gray circle
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black and white logo with the words, ' the logo for the company '
+  Object 13: the logo for the new york area
+  Object 14: a black background with a white and yellow logo
+
+Frame 107.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: the apple logo is shown on a black background
+  Object 3: a white cat with a black nose and a white nose
+  Object 4: a black and white logo with the words, ' the best of the best '
+  Object 5: an apple logo is seen on the screen of an iphone
+  Object 6: a small dog with a black background
+  Object 7: a black and white image of a man with a beard
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a small white object is flying through the dark sky
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black and white logo with the words, ' the logo for the company '
+  Object 12: the logo for the new york
+  Object 13: the moon is seen in this image taken from the sky
+  Object 14: a black background with a white and red light
+
+Frame 108.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a white bird flying through the air
+  Object 3: the logo for the new york
+  Object 4: the apple logo is seen on an iphone
+  Object 5: a person with a knife in their hand
+  Object 6: an apple logo is seen on a screen in this und - toned image
+  Object 7: a black background with a white and blue pattern
+  Object 8: a black background with a small white dot
+  Object 9: the black background is a dark background with a white line
+  Object 10: the logo for the new york area
+  Object 11: a black and white logo with the words, ' the logo for the company '
+  Object 12: the moon and saturn
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: the moon is seen in this image taken from the spacecraft
+  Object 15: a black background with a white light
+
+Frame 109.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: the logo for the new yorks
+  Object 3: the moon is seen in this image taken from the sky
+  Object 4: a white bird flying through the air
+  Object 5: a purple shoe with a black background
+  Object 6: a black and white photo of a man in a suit
+  Object 7: a black and white cat is standing in the dark
+  Object 8: a black background with a white and gray square
+  Object 9: a black background with a small white dot
+  Object 10: the logo for the new york area
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black and white logo with the words, ' the logo for the company '
+  Object 13: the moon and venus
+  Object 14: the moon is seen in this image taken from the spacecraft
+  Object 15: a black background with a white light
+  Object 16: a black background with a white light
+
+Frame 110.0:
+  Object 1: a white and black logo on a black background
+  Object 2: the logo for the new york
+  Object 3: a white bird flying through the air
+  Object 4: a small white object in the dark sky
+  Object 5: a pair of shoes on a black background
+  Object 6: a black background with a white and blue pattern
+  Object 7: a black and white photo of a person in the dark
+  Object 8: a black background with a white line in the middle
+  Object 9: the logo for the new york
+  Object 10: a black background with a small white dot
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a man in a suit and tie standing on a stage
+  Object 13: a black background with a white and red flower
+  Object 14: a black background with a white cross
+
+Frame 111.0:
+  Object 1: a white and black logo for the new york
+  Object 2: the logo for the new game, the game is shown in the middle of the image
+  Object 3: a white bird flying through the air
+  Object 4: a purple and black cat with a black background
+  Object 5: the apple logo
+  Object 6: a black background with a white and blue pattern
+  Object 7: an apple logo is seen on a screen in this und - toned image
+  Object 8: a black background with a white line in the middle
+  Object 9: a black background with a small white dot
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a white and red light
+  Object 12: the logo for the new york area
+  Object 13: a black and white logo with the words, ' the best '
+  Object 14: the moon is seen in this image taken from the spacecraft
+  Object 15: the moon is seen in this image taken from the spacecraft
+
+Frame 112.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a purple shoe with a black background
+  Object 3: a small white object with a black background
+  Object 4: a white bird flying through the air
+  Object 5: the logo for the new york
+  Object 6: a black background with a white and blue logo
+  Object 7: an image of a black and white cat
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a white line in the middle
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york area
+  Object 12: a black background with a white and red light
+  Object 13: a black and white logo with the words, ' the best '
+  Object 14: the moon is seen in this image taken from the spacecraft
+  Object 15: a black background with a white and yellow light
+
+Frame 113.0:
+  Object 1: a white and black logo for the new york
+  Object 2: a purple cat with a black background
+  Object 3: the apple logo is shown on a black background
+  Object 4: a white bird flying through the air
+  Object 5: a white and black logo with the words, ' the best of the best '
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a small white dot
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york area
+  Object 12: a black and white logo with the words, ' the logo for the company '
+  Object 13: a black background with a white and red light
+  Object 14: the moon is seen in this image taken from the spacecraft
+
+Frame 114.0:
+  Object 1: a white bottle of wine with a black background
+  Object 2: a white bird flying through the air
+  Object 3: a person with a hat and a black background
+  Object 4: apple iphone 5s
+  Object 5: the logo for the new york
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a white and black image
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york area
+  Object 12: a black background with a white cross
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a black and white image of a man with a beard
+  Object 15: a black background with a white and red light
+
+Frame 115.0:
+  Object 1: a white and black logo for the new york
+  Object 2: apple iphone 5s
+  Object 3: a white bird flying through the air
+  Object 4: a person is standing in the dark
+  Object 5: the logo for the new york
+  Object 6: a black and white cat is standing in the dark
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a small white dot
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the logo for the new york
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in the dark sky
+  Object 13: a black background with a white cross
+
+Frame 116.0:
+  Object 1: a white and black logo on a black background
+  Object 2: apple iphone 5s
+  Object 3: a white bird flying through the air
+  Object 4: the logo for the new york
+  Object 5: a person is standing in the dark
+  Object 6: a black and white cat is looking up at the camera
+  Object 7: the moon is seen in this image taken from the spacecraft
+  Object 8: a black background with a white cloud in the middle
+  Object 9: a black background with a small white dot
+  Object 10: a black and white logo with the words, ' the best of the best '
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in this image taken from the spacecraft
+
+Frame 117.0:
+  Object 1: a white plastic cup with a white handle
+  Object 2: the apple logo is seen on a black background
+  Object 3: a white bird flying through the air
+  Object 4: the logo for the new york
+  Object 5: a person is holding a knife in their hand
+  Object 6: a black and white image of a person in the dark
+  Object 7: a black background with a white and blue pattern
+  Object 8: a black background with a white and black image
+  Object 9: a black background with a small white dot
+  Object 10: the moon and venus
+  Object 11: a black and white logo with the words, ' the best of the best '
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and red light
+
+Frame 118.0:
+  Object 1: a white box with a black lid
+  Object 2: apple iphone 5s
+  Object 3: a hand is shown in the middle of the image
+  Object 4: a white bird flying through the air
+  Object 5: the logo for the new york
+  Object 6: a black and white image of a person
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a small white dot
+  Object 9: a black background with a white and black image
+  Object 10: a white and black logo with the words, ' the best of the best '
+  Object 11: the planet saturn and its moon
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and blue light
+
+Frame 119.0:
+  Object 1: a white paper with a black background
+  Object 2: a small white object with a black background
+  Object 3: a person is holding a small object in their hand
+  Object 4: a white bird with a black beak and a white beak
+  Object 5: an apple logo is seen on a screen
+  Object 6: the logo for the new york
+  Object 7: a black background with a white and blue logo
+  Object 8: a black background with a white circle
+  Object 9: a black background with a small white dot
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a small asteroid is seen in the sky
+  Object 14: a black background with a white and red light
+
+Frame 120.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: the apple logo is seen on a black background
+  Object 3: a white bird flying through the air
+  Object 4: a small rabbit is standing in the dark
+  Object 5: the logo for the new york
+  Object 6: a small white mouse sitting on top of a black surface
+  Object 7: a black background with a white and blue logo
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a black background with a small white object
+  Object 10: a white and black logo with the words, ' the best of the best '
+  Object 11: a black background with a small white dot
+  Object 12: the moon and venus
+  Object 13: a black background with a white and red light
+  Object 14: a dog is standing in the dark
+
+Frame 121.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a white bird with a black background
+  Object 3: a small brown rabbit is standing in the dark
+  Object 4: a black and white photo of a man in a suit
+  Object 5: the logo for the new yorks
+  Object 6: a white cat is standing in the dark
+  Object 7: a black background with a white and blue flower
+  Object 8: a white and black logo with the words, ' the best of the best '
+  Object 9: a black background with a white and black image
+  Object 10: a small white object in the dark sky
+  Object 11: a small asteroid is seen in the sky
+  Object 12: the moon is seen in the dark sky
+  Object 13: the moon is seen in the sky above the earth
+  Object 14: a black background with a white and red light
+
+Frame 122.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a white and black cat with a black background
+  Object 3: a small brown rabbit sitting on top of a wooden table
+  Object 4: a black and white photo of a bird
+  Object 5: the logo for the new yorks
+  Object 6: a white cat is standing in the dark
+  Object 7: the moon is seen in the dark sky
+  Object 8: a white and black logo with the words, ' the best of the best '
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white line in the middle
+  Object 13: a black background with a small gold object
+
+Frame 123.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: a white bird with a black background
+  Object 3: a small brown dog is standing in the dark
+  Object 4: a small white bird flying through the night sky
+  Object 5: the logo for the new york
+  Object 6: a white cat is standing in the dark
+  Object 7: a black background with a white and black image
+  Object 8: the logo for the new york school
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in this image taken from the spacecraft
+
+Frame 124.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: a white bird flying through the air
+  Object 3: a brown dog is standing in the dark
+  Object 4: a black and white photo of a cat
+  Object 5: a black and white photo of a bottle of wine
+  Object 6: the logo for the new york
+  Object 7: a black background with a white and black text
+  Object 8: the moon is seen in the sky as it passes through the earth
+  Object 9: a white and black logo with the words, ' the best of the best '
+  Object 10: a man in a suit and tie standing in front of a black background
+  Object 11: the moon is seen in the dark sky
+  Object 12: the moon is seen in this image taken from the spacecraft
+
+Frame 125.0:
+  Object 1: a white box with a black lid
+  Object 2: a white bird flying through the air
+  Object 3: a small purple flower on a black background
+  Object 4: an apple logo is seen on a screen in this und - clone image
+  Object 5: a black and white cat is standing in the dark
+  Object 6: a black background with a white and black image
+  Object 7: the logo for the new york
+  Object 8: a black background with a white and red light
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the logo for the new york school
+  Object 11: a black background with a small white object in the middle
+  Object 12: the moon is seen in this image taken from the spacecraft
+
+Frame 126.0:
+  Object 1: a white and black logo for the new york
+  Object 2: a bird flying in the air with its wings spread
+  Object 3: a small white object is seen in the dark
+  Object 4: a small animal with a long tail and a long tail
+  Object 5: a black and white image of a person in the dark
+  Object 6: the moon is seen in this image taken from the spacecraft
+  Object 7: the logo for the new york
+  Object 8: a black background with a small white dot
+  Object 9: a man in a suit and tie standing on a stage
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york area
+  Object 12: the moon is seen in this image taken from the spacecraft
+
+Frame 127.0:
+  Object 1: a white and black logo for the new york
+  Object 2: a white fish with a black background
+  Object 3: a white apple logo on a black background
+  Object 4: a small animal with a long tail and a long tail
+  Object 5: a black and white image of a man in a suit
+  Object 6: the moon is seen in the dark sky
+  Object 7: a white and black logo with the words, ' the best of the best '
+  Object 8: a black background with a white and black image
+  Object 9: a black background with a white and blue light
+  Object 10: the moon is seen in the sky above the earth
+  Object 11: the moon is seen in this image taken from the spacecraft
+
+Frame 128.0:
+  Object 1: a white and black logo for the new york
+  Object 2: a white bird with a black background
+  Object 3: an apple logo is seen on a screen in this und - toned image
+  Object 4: a small purple flower with a black background
+  Object 5: a black background with a white cat
+  Object 6: a black background with a small white dot
+  Object 7: the logo for the new game, the game of throne
+  Object 8: a black background with a white line in the middle
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a white and blue light
+  Object 12: a black background with a white spot in the middle
+
+Frame 129.0:
+  Object 1: a white and black logo for the new york
+  Object 2: a white bird with a black background
+  Object 3: an apple logo is seen on the screen of an iphone
+  Object 4: a small dog is standing in the dark
+  Object 5: a black and white cat is standing in the dark
+  Object 6: the logo for the new game, the game ' s logo
+  Object 7: the moon is seen in the dark sky
+  Object 8: a black background with a white and black image
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in the sky above the earth
+  Object 11: a man in a suit and tie standing in front of a black background
+  Object 12: the logo for the new york
+
+Frame 130.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a white bird flying through the air
+  Object 3: a small white bird flying through the air
+  Object 4: a small purple object with a black background
+  Object 5: an apple logo is seen on the screen of an iphone
+  Object 6: the logo for the new york
+  Object 7: the moon is seen in the dark sky
+  Object 8: the moon is seen in this image taken from nasa
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a black background with a white and red light
+  Object 11: the moon is seen in the sky above the earth
+  Object 12: the logo for the new york school
+
+Frame 131.0:
+  Object 1: a white and black logo with the words ' the best '
+  Object 2: a white fish with a black background
+  Object 3: a white cat is standing in the dark
+  Object 4: a person with a hat on their head
+  Object 5: an apple logo is seen on a screen
+  Object 6: the logo for the new game, the game ' s first ever
+  Object 7: a small white object in the dark sky
+  Object 8: the moon is seen in this image taken from nasa
+  Object 9: a black background with a white and blue logo
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a white and black logo with the words, ' the best of the best '
+  Object 12: the moon is seen in this image taken from the sky
+  Object 13: a black background with a white and yellow border
+
+Frame 132.0:
+  Object 1: a white and black logo for the new york
+  Object 2: a white bird flying through the air
+  Object 3: a small animal with a long tail and a long tail
+  Object 4: a white cat is standing in the dark
+  Object 5: the logo for the new yorks
+  Object 6: an apple logo on a black background
+  Object 7: a black background with a white and black image
+  Object 8: a small white object in the dark sky
+  Object 9: a black background with a white and blue logo
+  Object 10: the moon is seen in this image taken from the sky
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and yellow logo
+  Object 13: a white and black logo with the words, ' the best of the best '
+  Object 14: a man in a suit and tie is standing in the dark
+
+Frame 133.0:
+  Object 1: a white and black logo with the words ' the best '
+  Object 2: a white fish with a black background
+  Object 3: a small dog is standing in the dark
+  Object 4: the apple logo
+  Object 5: the logo for the new yorks
+  Object 6: an apple logo on a black background
+  Object 7: a black background with a white and black text
+  Object 8: a small white object in the dark sky
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a white and blue star
+  Object 12: a black and white photo of a man in a suit
+  Object 13: a black background with a white and red flower
+  Object 14: a black background with a white spot
+
+Frame 134.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a person with a hat on their head
+  Object 3: a white bird flying through the air
+  Object 4: the apple logo is seen on a black background
+  Object 5: the logo for the new game, the game ' s first ever
+  Object 6: an apple logo is seen on a black background
+  Object 7: a black background with a white line in the middle
+  Object 8: a black background with a small white object in the middle
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new company
+  Object 12: a black background with a white square and a white square
+  Object 13: a black background with a white line in the middle
+  Object 14: a white cat is standing in the dark
+  Object 15: the logo for the new york
+  Object 16: a black background with a white and red flower
+
+Frame 135.0:
+  Object 1: a white square with a black background
+  Object 2: a person is standing in the dark
+  Object 3: a white bird flying through the air
+  Object 4: an apple logo is seen on the screen of an iphone
+  Object 5: an apple logo on a black background
+  Object 6: the logo for the new york
+  Object 7: a black background with a small white dot
+  Object 8: a black background with a white and black image
+  Object 9: the planet saturn as seen by the hub spacecraft
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new game, the game of throne
+  Object 12: a black background with a white line
+  Object 13: a white and black background with a small white flower
+  Object 14: the logo for the new yorks
+  Object 15: a black background with a white and red flower
+
+Frame 136.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a small brown dog is standing in the dark
+  Object 3: a white bird with a black background
+  Object 4: a small white object is seen in this image
+  Object 5: an apple logo on a black background
+  Object 6: the logo for the new york
+  Object 7: the moon and venus in the dark sky
+  Object 8: a black background with a white and black image
+  Object 9: a black background with a small white dot
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: a black background with a white and blue star
+  Object 12: a white and black logo with the words, ' the best of the best '
+  Object 13: a black background with a white circle
+  Object 14: the logo for the new york
+
+Frame 137.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a brown dog is standing in the dark
+  Object 3: a white bird with a black background
+  Object 4: a black and white photo of a man in a suit
+  Object 5: a black background with a white cat
+  Object 6: the logo for the new york
+  Object 7: a black background with a small white object in the middle
+  Object 8: a black background with a white and black image
+  Object 9: the moon is seen in this image taken from the camera
+  Object 10: the earth ' s orbit is seen in this image taken from nasa
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white square and a white square
+  Object 13: a black background with a white line
+  Object 14: a white and red light on a black background
+  Object 15: a white and brown logo with the words, ' the best of the best '
+
+Frame 138.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a person is standing in the dark
+  Object 3: a small white object is seen in the dark
+  Object 4: a bird flying through the air with its wings spread
+  Object 5: an apple logo on a black background
+  Object 6: a black background with a small white object in the middle
+  Object 7: the logo for the new york
+  Object 8: the moon and venus
+  Object 9: a black background with a white and black image
+  Object 10: a black background with a white circle
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the moon is seen in this image taken from the sky
+  Object 13: a white and brown logo with the words, ' the best of the best '
+  Object 14: a black background with a white line in the middle
+  Object 15: a white and red object on a black background
+  Object 16: the moon is seen in the sky as it rises over the earth
+
+Frame 139.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: a small brown dog is standing in the dark
+  Object 3: the apple logo
+  Object 4: a white bird flying through the air
+  Object 5: a black and white photo of a man with a beard
+  Object 6: the logo for the new york
+  Object 7: a small white object in the dark
+  Object 8: an apple logo on a black background
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a black background with a white line in the middle
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: the logo for the new yorks
+  Object 13: a white and red light on a black background
+
+Frame 140.0:
+  Object 1: a white box with a black background
+  Object 2: a brown hat with a brown ribbon on it
+  Object 3: a white bird flying through the air
+  Object 4: an apple logo is seen on a screen in this und - toned image
+  Object 5: the logo for the new york
+  Object 6: the moon is seen in the dark sky
+  Object 7: an apple logo on a black background
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a black and white photo of a man with a beard
+  Object 10: a black background with a white line in the middle
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a white and black logo with the words, ' the best of the best '
+  Object 13: the moon is seen in this image taken from the spacecraft
+  Object 14: a white and brown dog with a black nose
+
+Frame 141.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a brown hat with a black background
+  Object 3: a white bird flying through the air
+  Object 4: the apple logo is seen on a black background
+  Object 5: the logo for the new york
+  Object 6: an apple logo is seen on a screen in this und - toned image
+  Object 7: the moon is seen in this image taken from the spacecraft
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: the logo for the new york
+  Object 11: a small asteroid is seen in the dark sky
+  Object 12: the logo for the new york
+
+Frame 142.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a white bird flying through the air
+  Object 3: a small brown dog with a black background
+  Object 4: an apple logo on a black background
+  Object 5: the logo for the new yorks
+  Object 6: a black background with a white rabbit on it ' s back
+  Object 7: the moon is seen in the dark sky
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: the logo for the new york hotel
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the logo for the new york
+  Object 12: the saturn saturn saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn,
+  Object 13: a black background with a white and red logo
+
+Frame 143.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: a white bird flying through the air
+  Object 3: a small brown dog is standing in the dark
+  Object 4: an apple logo is seen on a black background
+  Object 5: the logo for the new york
+  Object 6: an apple logo is seen in this und - toned image
+  Object 7: a black background with a small white dot
+  Object 8: the moon and venus
+  Object 9: the logo for the new yorks
+  Object 10: the moon is seen in this image taken from the spacecraft
+  Object 11: the saturn saturn saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn, saturn saturn,
+  Object 12: a black background with a white and red logo
+  Object 13: a white and black logo with the words, ' the best of the best '
+
+Frame 144.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a white bird with a black background
+  Object 3: a small animal with a long neck and a long tail
+  Object 4: the apple logo
+  Object 5: the logo for the new yorks
+  Object 6: a black background with a white rabbit on it ' s back
+  Object 7: a black background with a small purple object
+  Object 8: the moon is seen in this image taken from nasa
+  Object 9: a black background with a white and black logo
+  Object 10: the moon is seen in the sky as it passes through the earth
+  Object 11: a black background with a white cross on it
+  Object 12: the logo for the new york
+
+Frame 145.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a white bird with a black background
+  Object 3: the apple logo
+  Object 4: a small brown dog is standing in the dark
+  Object 5: a black and white logo with the words, ' the great escape '
+  Object 6: a black background with a white outline of a cat
+  Object 7: a small red object is seen in the dark
+  Object 8: the moon is seen in this image taken from the spacecraft
+  Object 9: a black background with a small white dot
+  Object 10: a black background with a white and red light
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white and black image
+  Object 13: a white and black background with a small white object
+  Object 14: the logo for the new apple watch
+
+Frame 146.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: a white bird flying through the air
+  Object 3: apple iphone 5s
+  Object 4: a small purple object with a black background
+  Object 5: the logo for the new york
+  Object 6: a black background with a white rabbit on it ' s back
+  Object 7: a small white object in the dark sky
+  Object 8: the moon is seen in this image taken from nasa
+  Object 9: a black background with a white circle
+  Object 10: a white plastic cup with a black background
+  Object 11: the moon is seen in this image taken from the spacecraft
+  Object 12: a black background with a white line in the middle
+  Object 13: a man in a suit and tie standing in front of a black background
+  Object 14: the logo for the new apple watch
+
+Frame 147.0:
+  Object 1: a white and black logo with the words ' ' '
+  Object 2: a white bird with a black background
+  Object 3: the apple logo is shown on a black background
+  Object 4: a person is standing in the dark
+  Object 5: the logo for the new york
+  Object 6: an apple logo on a black background
+  Object 7: the moon is seen in this image taken by nasa astronauts
+  Object 8: a small white object is seen in the dark sky
+  Object 9: the apple logo
+  Object 10: a black background with a white line in the middle
+  Object 11: a white cup with a black background
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a man in a suit and tie standing on a stage
+  Object 14: a black and white logo with the words, ' the best of the best '
+
+Frame 148.0:
+  Object 1: a white and black logo with the words, ' the best of the best '
+  Object 2: a white bird flying through the air
+  Object 3: the apple logo is shown on a black background
+  Object 4: a cat is looking up at the camera
+  Object 5: the logo for the new york
+  Object 6: an apple logo is seen on a screen in this und - toned image
+  Object 7: the moon and saturn
+  Object 8: a small white object is in the dark
+  Object 9: apple logo
+  Object 10: a white cup with a black background
+  Object 11: a black background with a white line in the middle
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a brown and white logo with the words, ' the best of the best '
+  Object 14: a man in a suit and tie is standing on a stage
+
+Frame 149.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a white bird with a black background
+  Object 3: a small purple object with a black background
+  Object 4: a black background with a white cat
+  Object 5: the logo for the new york
+  Object 6: an apple logo is seen on a screen in this und - toned image
+  Object 7: a black background with a small white object
+  Object 8: the moon is seen in this image taken from nasa
+  Object 9: a black background with a white square and a white square
+  Object 10: a white and black logo with the words, ' the best of the best '
+  Object 11: a black background with a white line in the middle
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and red light
+
+Frame 150.0:
+  Object 1: a white and black logo on a black background
+  Object 2: a black background
+  Object 3: a white bird with a black background
+  Object 4: a black and white photo of a bird
+  Object 5: the logo for the new york
+  Object 6: a black and white cat is looking up at the camera
+  Object 7: the moon is seen in this image taken from nasa
+  Object 8: a black background with a white and black text
+  Object 9: a small asteroid is seen in the sky
+  Object 10: a black background with a white and yellow logo
+  Object 11: a white and black logo with the words ' ' '
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a man in a suit and tie standing in front of a black background
+
+Frame 151.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a white bird flying through the air
+  Object 3: a person is standing in the dark
+  Object 4: a small white bird flying through the night sky
+  Object 5: the logo for the new york
+  Object 6: a black background with a white circle
+  Object 7: an apple logo is seen on a screen in this und - toned image
+  Object 8: the moon is seen in the sky above the earth
+  Object 9: the moon and venus
+  Object 10: a black background with a white square and a white square
+  Object 11: a black background with a white cat and a black background
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and red light
+
+Frame 152.0:
+  Object 1: a white plastic cup with a black lid
+  Object 2: a white bird with a black background
+  Object 3: a person is standing in the dark
+  Object 4: a small white dog is standing in the dark
+  Object 5: the logo for the new york
+  Object 6: a black background with a white and black image
+  Object 7: an apple logo is seen on a screen in this und - toned image
+  Object 8: the moon and venus
+  Object 9: the moon is seen in this image taken from the spacecraft
+  Object 10: a black background with a white cat and a black background
+  Object 11: a black background with a white and yellow logo
+  Object 12: the moon is seen in this image taken from the spacecraft
+  Object 13: a black background with a white and red light
+

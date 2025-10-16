@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api_server.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "api_server.py"
+    }
+  ],
+  "env": {
+    "MODEL_CACHE_PATH": "/tmp/models",
+    "CONFIDENCE_THRESHOLD": "0.5",
+    "MAX_FRAMES_MEMORY": "5"
+  }
+}
